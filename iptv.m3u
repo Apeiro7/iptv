@@ -1,0 +1,2037 @@
+#EXTM3U
+#EXTINF:-1,tvg-name="SONY TV HD" tvg-logo="" group-title="HINDI ENTERTAINMENT",SONY TV HD
+http://172.172.171.2/hls18/stream_22.m3u8
+#EXTINF:-1,tvg-name="SONY TV" tvg-logo="" group-title="HINDI ENTERTAINMENT",SONY TV
+http://172.172.171.2/hls/modn/list/8110/playlist.m3u8
+#EXTINF:-1, tvg-name="& Pictures HD" tvg-logo="" group-title="HINDI MOVIES",& Pictures HD
+http://172.172.171.2/stream_5.m3u8
+#EXTINF:-1, tvg-name="& Pictures" tvg-logo="" group-title="HINDI MOVIES",& Pictures
+http://172.172.171.2/hls18/stream_6.m3u8
+#EXTINF:-1 tvg-id="471" tvg-name="SONY SAB HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="HINDI ENTERTAINMENT",SONY SAB HD{SONYLIV}
+http://172.172.171.2/hls18/stream_21.m3u8
+
+#EXTINF:-1, tvg-name="Grand News" tvg-logo="" group-title="GRAND TV",Grand Regional News
+http://172.172.171.2/hls/modn/list/8114/playlist.m3u8
+#EXTINF:-1, tvg-name="ZEE MP CG" tvg-logo="" group-title="HINDI NEWS",ZEE MP CG
+http://172.172.171.2/hls18/stream_2.m3u8
+#EXTINF:-1 tvg-name="INDIA TODAY" tvg-logo="" group-title="HINDI NEWS",INDIA TODAY
+http://172.172.171.2/hls18/stream_18.m3u8
+#EXTINF:-1 tvg-name="India TV" tvg-logo="" group-title="HINDI NEWS",India TV
+http://172.172.171.2/hls18/stream_20.m3u8
+
+#EXTINF:-1 tvg-name="Regional News 18 MP CG" tvg-logo="" group-title="HINDI NEWS",Regional News 18 MP CG
+http://172.172.171.2/hls19/stream_4.m3u8
+#EXTINF:-1 tvg-name="ABP News" tvg-logo="" group-title="HINDI NEWS",ABP News
+http://172.172.171.2/hls19/stream_10.m3u8
+
+
+#EXTINF:-1, tvg-name="ZEE NEWS" tvg-logo="" group-title="HINDI NEWS",ZEE NEWS
+http://10.40.255.243/app/dplay.php?&cid=504&id=Zee_News_MOB-audio_98835_eng=98800-video=1272000.m3u8
+#EXTINF:-1, tvg-name="NDTV MP CG" tvg-logo="" group-title="HINDI NEWS",NDTV MP CG
+http://172.172.171.2/hls19/stream_17.m3u8
+#EXTINF:-1, tvg-name="CNBC TV 18 PRIME" tvg-logo="" group-title="HINDI NEWS",CNBC TV 18 PRIME
+http://172.172.171.2/hls19/stream_13.m3u8
+#EXTINF:-1, tvg-name="AAJ TAK HD" tvg-logo="" group-title="HINDI NEWS",AAJ TAK HD
+http://10.40.255.243/app/dplay.php?&cid=173&id=Aaj_Tak_MOB-audio_98834_hin=98800-video=1272000.m3u8
+#EXTINF:-1 tvg-name="News 18 India" tvg-logo="" group-title="HINDI NEWS",News 18 India
+http://172.172.171.2/hls18/stream_29.m3u8
+
+#EXTINF:-1 tvg-id="872" tvg-name="SONY YAY{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="CARTOON & KIDS",SONY YAY{SONYLIV}
+http://172.172.171.2/hls19/stream_7.m3u8
+
+
+#EXTINF:-1 tvg-name="HSuper Hungama" tvg-logo="" group-title="CARTOON & KIDS",Super Hungama
+http://172.172.171.2/hls/modn/list/8040/playlist.m3u8
+#EXTINF:-1, tvg-name="Sony sab" tvg-logo="" group-title="HINDI ENTERTAINMENT",Sony sab
+http://172.172.171.2/hls/modn/list/8107/playlist.m3u8
+#EXTINF:-1 tvg-id="474" tvg-name="SONY PAL{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="HINDI ENTERTAINMENT",SONY PAL{SONYLIV}
+http://172.172.171.2/hls18/stream_5.m3u8
+#EXTINF:-1 tvg-id="697" tvg-name="SONY AATH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="BENGALI",SONY AATH{SONYLIV}
+http://172.172.171.2/hls18/stream_14.m3u8
+
+#EXTINF:-1 tvg-id="476" tvg-name="SONY MAX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="HINDI MOVIES",SONY MAX HD{SONYLIV}
+
+#EXTINF:-1 tvg-id="289" tvg-name="SONY MAX{SONYLIV}" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="HINDI MOVIES",SONY MAX{SONYLIV}
+http://172.172.171.2/hls/modn/list/8109/playlist.m3u8
+#EXTINF:-1, tvg-name="SONY MAX 1" tvg-logo="" group-title="HINDI MOVIES",SONY MAX 1
+http://172.172.171.2/hls18/stream_1.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY WAH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="HINDI MOVIES",SONY WAH{SONYLIV}
+http://172.172.171.2/hls18/stream_17.m3u8
+#EXTINF:-1 tvg-id="483" tvg-name="SONY MAX2{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="HINDI MOVIES",SONY MAX2{SONYLIV}
+http://172.172.171.2/hls/modn/list/8123/playlist.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-name="SONY PIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="ENGLISH MOVIES",SONY PIX HD{SONYLIV}
+http://172.172.171.2/hls/stream_12.m3u8
+#EXTINF:-1 tvg-id="525" tvg-name="SONY BBC EARTH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="GEO INFOTAINMENT",SONY BBC EARTH{SONYLIV}
+http://172.172.171.2/hls/modn/list/8005/playlist.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 1 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS",SONY TEN 1 HD{SONYLIV}
+http://172.172.171.2/hls19/stream_23.m3u8
+https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 2 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS",SONY TEN 2 HD{SONYLIV}
+http://172.172.171.2/hls/modn/list/8022/playlist.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 3 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS",SONY TEN 3 HD{SONYLIV}
+http://172.172.171.2/stream_14.m3u8
+#EXTINF:-1, tvg-name="STAR Sport 1 HD" tvg-logo="" group-title="SPORTS",STAR Sport 1 HD
+http://172.172.171.2/hls/stream_5.m3u8
+#EXTINF:-1, tvg-name="STAR Sport 2 HD" tvg-logo="" group-title="SPORTS",STAR Sports 2 HD
+http://172.172.171.2/hls/stream_9.m3u8
+#EXTINF:-1, tvg-name="STAR Sport Select 1" tvg-logo="" group-title="SPORTS",STAR Sport Select 1
+http://172.172.171.2/hls/modn/list/8094/playlist.m3u8
+#EXTINF:-1, tvg-name="STAR Sport 1 Hindi" tvg-logo="" group-title="SPORTS",STAR Sport 1 Hindi HD
+http://172.172.171.2/hls19/stream_25.m3u8
+#EXTINF:-1, tvg-name="STAR Sport 2" tvg-logo="" group-title="SPORTS",STAR Sport 2 Hindi HD
+http://172.172.171.2/hls/stream_9.m3u8
+#EXTINF:-1, tvg-name="STAR Sport 3" tvg-logo="" group-title="SPORTS",STAR Sport 3
+http://172.172.171.2/hls/modn/list/8015/playlist.m3u8
+#EXTINF:-1, tvg-name="DD Sports" tvg-logo="" group-title="SPORTS",DD Sports
+http://10.40.255.243/app/dplay.php?&cid=204&id=DD_Sports_MOB-audio_98835_hin=98800-video=1680400.m3u8
+#EXTINF:-1, tvg-name="STAR Plus HD" tvg-logo="" group-title="HINDI ENTERTAINMENT",STAR Plus HD
+http://172.172.171.2/hls/stream_6.m3u8
+#EXTINF:-1, tvg-name="STAR UTSAV" tvg-logo="" group-title="HINDI ENTERTAINMENT",STAR UTSAV
+http://172.172.171.2/hls/modn/list/8111/playlist.m3u8
+
+
+#EXTINF:-1, tvg-name="STAR Plus" tvg-logo="" group-title="HINDI ENTERTAINMENT",STAR Plus
+http://172.172.171.2/hls/modn/list/8014/playlist.m3u8
+#EXTINF:-1, tvg-name="STAR Bharat" tvg-logo="" group-title="HINDI ENTERTAINMENT",STAR Bharat
+http://172.172.171.2/hls/stream_8.m3u8
+#EXTINF:-1, tvg-name="KHUSHI TV" tvg-logo="" group-title="HINDI ENTERTAINMENT",KHUSHI TVz	
+http://172.172.171.2/hls/modn/list/8122/playlist.m3u8
+
+#EXTINF:-1, tvg-name="STAR Jalsa HD" tvg-logo="" group-title="BENGALI",STAR Jalsa HD
+http://172.172.171.2/hls/stream_10.m3u8
+#EXTINF:-1, tvg-name="STAR Jalsa" tvg-logo="" group-title="BENGALI",STAR Jalsa
+http://172.172.171.2/hls/modn/list/8010/playlist.m3u8
+#EXTINF:-1, tvg-name="Maa Tv HD" tvg-logo="" group-title="TELUGU",Maa tv HD
+http://172.172.171.2/hls/stream_14.m3u8
+#EXTINF:-1, tvg-name="Jalsa Movie" tvg-logo="" group-title="BENGALI",Jalsa Movie
+http://172.172.171.2/hls/modn/list/8018/playlist.m3u8
+
+#EXTINF:-1, tvg-name="STAR Gold HD" tvg-logo="" group-title="HINDI MOVIES",STAR Gold HD
+http://172.172.171.2/hls/stream_7.m3u8
+#EXTINF:-1 tvg-id="1146" tvg-name="SONY MARATHI{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="MARATHI",SONY MARATHI{SONYLIV}
+http://172.172.171.2/hls/modn/list/8134/playlist.m3u8
+
+#EXTINF:-1, tvg-name="STAR Gold Select HD" tvg-logo="" group-title="HINDI MOVIES",STAR Gold Select HD
+http://172.172.171.2/hls/stream_15.m3u8
+
+#EXTINF:-1, tvg-name="STAR Maa Movie HD" tvg-logo="" group-title="TELUGU",STAR Maa Movie HD
+http://172.172.171.2/hls/modn/list/8144/playlist.m3u8
+#EXTINF:-1, tvg-name="STAR Movies Select HD" tvg-logo="" group-title="ENGLISH MOVIES",STAR Movies Select HD
+http://172.172.171.2/hls/stream_26.m3u8
+#EXTINF:-1, tvg-name="& FLIX" tvg-logo="" group-title="ENGLISH MOVIES",& FLIX
+http://172.172.171.2/hls/modn/list/8052/playlist.m3u8
+#EXTINF:-1, tvg-name="STAR UTSAV MOVIES" tvg-logo="" group-title="HINDI MOVIES",STAR UTSAV MOVIES
+http://172.172.171.2/hls/modn/list/8112/playlist.m3u8
+
+#EXTINF:-1, tvg-name="STAR Movies HD" tvg-logo="" group-title="ENGLISH MOVIES",STAR Movies HD
+http://172.172.171.2/hls/stream_28.m3u8
+#EXTINF:-1, tvg-name="National Geography HD " tvg-logo="" group-title="GEO INFOTAINMENT",National Geography HD
+http://172.172.171.2/hls/stream_16.m3u8
+#EXTINF:-1, tvg-name="National Geography" tvg-logo="" group-title="GEO INFOTAINMENT",National Geography
+http://172.172.171.2/hls/modn/list/8011/playlist.m3u8
+#EXTINF:-1,tvg-name="ZEE TV HD" tvg-logo="" group-title="HINDI ENTERTAINMENT",ZEE TV HD
+http://172.172.171.2/stream_8.m3u8
+#EXTINF:-1,tvg-name="ZEE TV" tvg-logo="" group-title="HINDI ENTERTAINMENT",ZEE TV
+http://172.172.171.2/hls/modn/list/8004/playlist.m3u8
+#EXTINF:-1,tvg-name="& TV HD" tvg-logo="" group-title="HINDI ENTERTAINMENT",& TV HD
+http://172.172.171.2/stream_6.m3u8
+#EXTINF:-1,tvg-name="& TV" tvg-logo="" group-title="HINDI ENTERTAINMENT",& TV
+http://172.172.171.2/hls18/stream_3.m3u8
+#EXTINF:-1,tvg-name="& XPLOR HD" tvg-logo="" group-title="HINDI ENTERTAINMENT",& XPLOR HD
+http://172.172.171.2/hls/stream_32.m3u8
+#EXTINF:-1, tvg-name="ZEE Cinemalu" tvg-logo="" group-title="TELUGU",ZEE Cinemalu
+http://172.172.171.2/hls/modn/list/8000/playlist.m3u8
+
+
+#EXTINF:-1, tvg-name="ZEE Zest HD" tvg-logo="" group-title="LIFESTYLE",ZEE Zest HD
+http://172.172.171.2/hls18/stream_23.m3u8
+#EXTINF:-1, tvg-name="ZEE Cafe HD" tvg-logo="" group-title="LIFESTYLE",ZEE Cafe HD
+http://172.172.171.2/hls/stream_17.m3u8
+#EXTINF:-1, tvg-name="ZEE Cafe" tvg-logo="" group-title="LIFESTYLE",ZEE Cafe
+http://172.172.171.2/hls/modn/list/8053/playlist.m3u8
+
+#EXTINF:-1, tvg-name="ZEE PUNJABI" tvg-logo="" group-title="HINDI ENTERTAINMENT",ZEE PUNJABI
+http://172.172.171.2/hls/modn/list/8054/playlist.m3u8
+
+#EXTINF:-1,tvg-name="ZEE Cinema HD" tvg-logo="" group-title="HINDI MOVIES",ZEE Cinema HD
+http://172.172.171.2/stream_7.m3u8
+#EXTINF:-1,tvg-name="ZEE Cinema" tvg-logo="" group-title="HINDI MOVIES",ZEE Cinema
+http://172.172.171.2/hls/modn/list/8007/playlist.m3u8
+#EXTINF:-1,tvg-name="ZEE Bangla" tvg-logo="" group-title="BENGALI",ZEE Bangla
+http://172.172.171.2/hls/modn/list/8002/playlist.m3u8
+#EXTINF:-1,tvg-name="ZEE Bangla Cinema" tvg-logo="" group-title="BENGALI",ZEE Bangla Cinema
+http://172.172.171.2/hls18/stream_30.m3u8
+#EXTINF:-1,tvg-name="COLORS Bangla Cinema" tvg-logo="" group-title="BENGALI",COLORS Bangla Cinema
+http://172.172.171.2/hls19/stream_9.m3u8
+#EXTINF:-1, tvg-name="AAKASH Aath" tvg-logo="" group-title="BENGALI",AAKASH Aath
+http://103.51.21.134/app/ts_live_698.m3u8
+#EXTINF:-1, tvg-name="Colors HD" "tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="HINDI ENTERTAINMENT",Colors HD
+http://10.40.255.243/app/dplay.php?&cid=144&id=Colors_HD_MOB-audio_98835_hin=98800-video=2293600.m3u8
+#EXTINF:-1, tvg-name="HINDI ENTERTAINMENT" tvg-logo="" group-title="HINDI ENTERTAINMENT",Colors
+http://172.172.171.2/hls19/stream_18.m3u8 
+#EXTINF:-1, tvg-name="Zee Sarthak" tvg-logo="" group-title="ODIA",Zee Sarthak
+http://172.172.171.2/hls/modn/list/8057/playlist.m3u8
+#EXTINF:-1 tvg-id="grandnews.in" tvg-name="Grand News" tvg-logo="https://cdn.brandfetch.io/grandnews.in/fallback/transparent/w/1200/h/400/banner?c=1bfwsmEH20zzEfSNTed" group-title="GRAND TV",Grand News
+#EXTINF:-1, tvg-name="GRAND Kidz HD" tvg-logo="" group-title="GRAND TV",GRAND KIDZ HD
+http://172.172.171.2/stream_10.m3u8
+#EXTINF:-1, tvg-name="CN" tvg-logo="" group-title="CARTOON & KIDS",CN
+http://10.40.255.243/app/dplay.php?&cid=816&id=Cartoon_Network_Hindi_MOB-audio_98834_hin=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="Disney" tvg-logo="" group-title="CARTOON & KIDS",Disney
+http://172.172.171.2/hls18/stream_15.m3u8
+#EXTINF:-1, tvg-name="Hungama" tvg-logo="" group-title="CARTOON & KIDS",Hungama
+http://172.172.171.2/hls18/stream_8.m3u8
+
+
+
+
+#EXTINF:-1, tvg-name="GRAND Bollywood HD" tvg-logo="" group-title="GRAND TV",GRAND Bollywood HD
+http://172.172.171.2/stream_11.m3u8
+#EXTINF:-1, tvg-name="GRAND Hollywood HD" tvg-logo="" group-title="GRAND TV",GRAND Hollywood HD
+http://172.172.171.2/stream_13.m3u8
+#EXTINF:-1, tvg-name="GRAND Gurveer" tvg-logo="" group-title="GRAND TV",GRAND Gurveer
+http://172.172.171.2/stream_20.m3u8
+#EXTINF:-1, tvg-name="GRAND YADE" tvg-logo="" group-title="GRAND TV",GRAND YADE
+http://172.172.171.2/hls/modn/list/8082/playlist.m3u8
+
+#EXTINF:-1, tvg-name="GRAND Dakshin HD" tvg-logo="" group-title="GRAND TV",GRAND Dakshin HD
+http://172.172.171.2/hls/stream_21.m3u8
+#EXTINF:-1, tvg-name="GRAND Dakshin" tvg-logo="" group-title="GRAND TV",GRAND Dakshin
+http://172.172.171.2/hls/modn/list/8127/playlist.m3u8
+#EXTINF:-1,tvg-name="Jay Johar" tvg-logo="" group-title="GRAND TV",Jay Johar
+http://172.172.171.2/stream_24.m3u8
+#EXTINF:-1, tvg-name="GRAND Bhakti" tvg-logo="" group-title="GRAND TV",GRAND Bhakti
+http://172.172.171.2/stream_29.m3u8
+#EXTINF:-1, tvg-name="GRAND Comedy" tvg-logo="" group-title="GRAND TV",GRAND Comedy
+http://172.172.171.2/stream_12.m3u8
+
+
+
+
+#EXTINF:-1,tvg-name="Colors Infinity HD" tvg-logo="" group-title="OTHERS",Colors Infinity HD
+http://172.172.171.2/hls19/stream_21.m3u8
+#EXTINF:-1, tvg-name="DD Urdu" tvg-logo="" group-title="DD",DD Urdu
+http://10.40.255.243/app/dplay.php?&cid=712&id=DD_urdu_MOB-audio_98834_urd=98800-video=1680400.m3u8
+#EXTINF:-1, tvg-name="Sundrani Tv" tvg-logo="" group-title="HINDI ENTERTAINMENT",Sundrani tv
+http://10.40.255.243/app/dplay.php?&cid=3083&id=Sundrani_TV_MOB-audio_98835_hin=98800-video=1680400.m3u8
+
+#EXTINF:-1, tvg-name="Shemaroo Tv" tvg-logo="" group-title="HINDI ENTERTAINMENT",Shemaroo tv
+http://10.40.255.243/app/dplay.php?&cid=1961&id=Shemaroo_TV_MOB-audio_98836_eng=98800-video=1884800.m3u8
+#EXTINF:-1, tvg-name="Jinvani Tv" tvg-logo="" group-title="OTHERS",Jinvani tv
+http://10.40.255.243/app/dplay.php?&cid=596&id=Jinvani_TV_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1, tvg-name="Comedy Central" tvg-logo="" group-title="ENGLISH MOVIES",Comedy Central
+http://172.172.171.2/hls/modn/list/8012/playlist.m3u8
+#EXTINF:-1, tvg-name="Gemini Tv" tvg-logo="" group-title="TELUGU",Gemini tv
+http://172.172.171.2/hls/modn/list/8072/playlist.m3u8
+#EXTINF:-1, tvg-name="Gemini Life" tvg-logo="" group-title="TELUGU",Gemini Life
+http://172.172.171.2/hls/modn/list/8125/playlist.m3u8
+#EXTINF:-1, tvg-name="Discovery HD" tvg-logo="" group-title="GEO INFOTAINMENT",Discovery HD
+http://103.51.21.134/app/ts_live_463.m3u8
+
+#EXTINF:-1, tvg-name="Travel XP HD" tvg-logo="" group-title="LIFESTYLE",Travel XP HD
+http://172.172.171.2/stream_18.m3u8
+
+#EXTINF:-1, tvg-name="History tv 18 HD" tvg-logo="" group-title="GEO INFOTAINMENT",History tv 18 HD
+http://172.172.171.2/hls/modn/list/8035/playlist.m3u8
+#EXTINF:-1, tvg-name="History tv 18" tvg-logo="" group-title="GEO INFOTAINMENT",History tv 18
+http://172.172.171.2/hls19/stream_20.m3u8
+
+#EXTINF:-1, tvg-name="Nick HD +" tvg-logo="" group-title="CARTOON & KIDS",Nick HD +
+http://172.172.171.2/hls19/stream_19.m3u8
+
+
+
+
+#EXTINF:-1, tvg-name="Colors Cinemplex" tvg-logo="" group-title="HINDI MOVIES",Colors Cinemplex
+http://172.172.171.2/hls19/stream_14.m3u8
+
+#EXTINF:-1, tvg-name="Star Gold Select" tvg-logo="" group-title="HINDI MOVIES",Star Gold Select
+http://172.172.171.2/hls/stream_15.m3u8
+#EXTINF:-1, tvg-name="ZEE ANMOL" tvg-logo="" group-title="HINDI MOVIES",ZEE ANMOL
+http://172.172.171.2/hls/modn/list/8133/playlist.m3u8
+
+
+#EXTINF:-1, tvg-name="Patidaar Darshan" tvg-logo="" group-title="DEVOTIONAL",Patidaar Darshan
+http://172.172.171.2/hls/modn/list/8013/playlist.m3u8				
+#EXTINF:-1, tvg-name="ZEE Bollywood" tvg-logo="" group-title="HINDI MOVIES",ZEE BOllywood
+http://172.172.171.2/hls/modn/list/8113/playlist.m3u8
+#EXTINF:-1, tvg-name="ZEE Talkies HD" tvg-logo="" group-title="MARATHI",ZEE Talkies HD
+http://172.172.171.2/stream_1.m3u8
+#EXTINF:-1, tvg-name="ZEE Talkies" tvg-logo="" group-title="MARATHI",ZEE Talkies
+http://172.172.171.2/hls/modn/list/8058/playlist.m3u8
+#EXTINF:-1, tvg-name="ZEE Marathi" tvg-logo="" group-title="MARATHI",ZEE Marathi
+http://172.172.171.2/hls/modn/list/8003/playlist.m3u8
+#EXTINF:-1, tvg-name="ZEE Bussines" tvg-logo="" group-title="BUSINESS NEWS",ZEE Bussines
+http://172.172.171.2/hls19/stream_8.m3u8
+#EXTINF:-1, tvg-name="Sangeeta BANGLA" tvg-logo="" group-title="BENGALI",Sangeeta BANGLA
+http://10.40.255.243/app/dplay.php?&cid=740&id=Sangeet_Bangla_MOB-audio_110034_eng=110000-video=1800000.m3u8
+				
+#EXTINF:-1,tvg-name="COLORS MARATHI" tvg-logo="" group-title="MARATHI",COLORS MARATHI
+http://172.172.171.2/hls19/stream_2.m3u8
+#EXTINF:-1,tvg-name="COLORS GUJRATI" tvg-logo="" group-title="MARATHI",COLORS GUJRATI
+http://172.172.171.2/hls19/stream_3.m3u8
+#EXTINF:-1, tvg-name="Colors Bangla" tvg-logo="" group-title="BENGALI",Colors Bangla	
+http://172.172.171.2/hls19/stream_1.m3u8
+#EXTINF:-1 tvg-name="Colors Bengali HD" tvg-logo="" group-title="BENGALI",Colors Bengali HD
+
+http://103.51.21.134/app/ts_live_756.m3u8
+#EXTINF:-1, tvg-name="ZEE Salam" tvg-logo="" group-title="HINDI ENTERTAINMENT",ZEE salam
+http://103.51.21.134/app/ts_live_728.m3u8																	
+#EXTINF:-1, tvg-name="CNBC TV 18" tvg-logo="" group-title="HINDI NEWS",CNBC TV 18
+http://172.172.171.2/hls19/stream_13.m3u8
+#EXTINF:-1, tvg-name="CNBC awaaz" tvg-logo="" group-title="HINDI NEWS",CNBC awaaz
+http://172.172.171.2/hls18/stream_25.m3u8
+#EXTINF:-1, tvg-name="KALINGA TV" tvg-logo="" group-title="ODIA",KALINGA TV
+http://10.40.255.243/app/dplay.php?&cid=781&id=Kalinga_TV_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1, tvg-name="TARANG" tvg-logo="" group-title="ODIA",TARANG
+http://172.172.171.2/hls/modn/list/8098/playlist.m3u8
+#EXTINF:-1, tvg-name="TARANG MUSIC" tvg-logo="" group-title="ODIA",TARANG MUSIC
+http://172.172.171.2/hls/modn/list/8099/playlist.m3u8
+#EXTINF:-1, tvg-name="ALANKAR" tvg-logo="" group-title="ODIA",ALANKAR
+http://172.172.171.2/hls/modn/list/8116/playlist.m3u8
+#EXTINF:-1, tvg-name="PRATHANA" tvg-logo="" group-title="ODIA",PRATHANA
+http://172.172.171.2/hls/modn/list/8117/playlist.m3u8
+#EXTINF:-1, tvg-name="OTV" tvg-logo="" group-title="ODIA",OTV
+http://172.172.171.2/hls/modn/list/8001/playlist.m3u8					
+						
+#EXTINF:-1, tvg-name=" DANGAL" tvg-logo="" group-title="HINDI ENTERTAINMENT", DANGAL
+http://10.40.255.243/app/dplay.php?&cid=701&id=Dangal_MOB-audio_98836_eng=98800-video=1680400.m3u8
+#EXTINF:-1, tvg-name="ISHWAR TV" tvg-logo="" group-title="DEVOTIONAL",ISHWAR TV
+http://10.40.255.243/app/dplay.php?&cid=601&id=Ishwar_TV_MOB-audio_98835_hin=98800-video=1680400.m3u8
+#EXTINF:-1,tvg-name="Sadhana" tvg-logo="" group-title="DEVOTIONAL",Sadhana
+http://10.40.255.243/app/dplay.php?&cid=593&id=Sadhna_MOB-audio_98835_hin=98800-video=1680400.m3u8
+						
+#EXTINF:-1, tvg-name="AASHTHA" tvg-logo="" group-title="DEVOTIONAL",AASHTHA
+http://10.40.255.243/app/dplay.php?&cid=175&id=Aastha_MOB-audio_97456_und=97200-video=1650000.m3u8	
+#EXTINF:-1 tvg-id="sanskartv.in" tvg-name="Sanskar TV" tvg-logo="https://watchindia.net/images/channels/hindi/Sanskar_TV.png" group-title="DEVOTIONAL",Sanskar TV
+http://10.40.255.243/app/dplay.php?&cid=288&id=Sanskar_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1, tvg-name="PTC PUNJABI" tvg-logo="" group-title="PUNJABI",PTC PUNJABI
+http://10.40.255.243/app/dplay.php?&cid=1171&id=PTC_Punjabi_MOB-audio_98834_hin=98800-video=1680400.m3u8
+
+#EXTINF:-1,  tvg-name="PTC CHAKDE" tvg-logo="" group-title="PUNJABI",PTC CHAKDE
+http://172.172.171.2/hls/4-stream.m3u8
+#EXTINF:-1, tvg-name="ZOOM" tvg-logo="" group-title="HINDI ENTERTAINMENT",ZOOM
+http://10.40.255.243/app/dplay.php?&cid=592&id=Zoom_MOB-audio_98835_hin=98800-video=1680400.m3u8
+#EXTINF:-1, tvg-name="ZEE KANNADA" tvg-logo="" group-title="KANNADA",ZEE KANNADA
+http://172.172.171.2/hls/modn/list/8051/playlist.m3u8
+#EXTINF:-1, tvg-name="TURBO" tvg-logo="" group-title="GEO INFOTAINMENT",TURBO
+http://172.172.171.2/hls/13-stream.m3u8
+#EXTINF:-1, tvg-name="PTC PUNJAB GOLD" tvg-logo="" group-title="PUNJABI",PTC PUNJAB GOLD
+http://10.40.255.243/app/dplay.php?&cid=1190&id=PTC_Punjabi_Gold_MOB-audio_98834_hin=98800-video=1680400.m3u8
+#EXTINF:-1, tvg-name="NAT GEO WILD" tvg-logo="" group-title="GEO INFOTAINMENT",NAT GEO WILD
+http://172.172.171.2/hls/23-stream.m3u8
+
+#EXTINF:-1, tvg-name="ANIMAL PLANET" tvg-logo="" group-title="GEO INFOTAINMENT",ANIMAL PLANET
+http://172.172.171.2/hls/33-stream.m3u8
+#EXTINF:-1, tvg-name="Discovery" tvg-logo="" group-title="GEO INFOTAINMENT",Discovery
+http://172.172.171.2/hls/modn/list/8093/playlist.m3u8
+
+#EXTINF:-1, tvg-name="ASIANET" tvg-logo="" group-title="MALAYALAM",ASIANET
+http://172.172.171.2/hls/modn/list/8021/playlist.m3u8
+#EXTINF:-1, tvg-name="STAR PRAVAH HD" tvg-logo="" group-title="MARATHI",STAR PRAVAH HD
+http://172.172.171.2/hls/stream_13.m3u8
+#EXTINF:-1, tvg-name="STAR PRAVAH" tvg-logo="" group-title="MARATHI",STAR PRAVAH
+http://172.172.171.2/hls/modn/list/8048/playlist.m3u8
+#EXTINF:-1, tvg-name="STAR PRAVAH PICTURE" tvg-logo="" group-title="MARATHI",STAR PRAVAH PICTURE
+http://172.172.171.2/hls18/stream_16.m3u8
+#EXTINF:-1, tvg-name="Discovery SCIENCE" tvg-logo="" group-title="GEO INFOTAINMENT",Discovery SCIENCE
+http://172.172.171.2/hls/modn/list/8047/playlist.m3u8
+#EXTINF:-1, tvg-name="Discovery KIDS" tvg-logo="" group-title="CARTOON & KIDS",Discovery KIDS
+http://172.172.171.2/hls/modn/list/8046/playlist.m3u8
+
+#EXTINF:-1, tvg-name="ZEE ACTION" tvg-logo="" group-title="HINDI MOVIES",ZEE ACTION
+http://172.172.171.2/hls/modn/list/8055/playlist.m3u8
+#EXTINF:-1, tvg-name="ASIANET PLUS" tvg-logo="" group-title="MALAYALAM",ASIANET PLUS
+http://172.172.171.2/hls/47-stream.m3u8
+#EXTINF:-1, tvg-name="6 TV" tvg-logo="" group-title="TELUGU",6 TV
+http://172.172.171.2/hls/50-stream.m3u8
+#EXTINF:-1,tvg-name="BHOJPURI CINEMA" tvg-logo="" group-title="BHOJPURI TV",BHOJPURI CINEMA
+http://10.40.255.243/app/dplay.php?&cid=486&id=Bhojpuri_Cinema_MOB-audio_98836_eng=98800-video=1680400.m3u8
+#EXTINF:-1, tvg-name="SANGEET BHOJPURI" tvg-logo="" group-title="BHOJPURI TV",SANGEET BHOJPURI
+http://10.40.255.243/app/dplay.php?&cid=741&id=Sangeet_Bhojpuri_MOB-audio_80034_eng=80000-video=1830000.m3u8
+#EXTINF:-1,  tvg-name="B4U BHOJPURI" tvg-logo="" group-title="BHOJPURI TV",B4U BHOJPURI
+http://10.40.255.243/app/dplay.php?&cid=1296&id=B4U_Bhojpuri_MOB-audio_97392_und=97200-video=1650000.m3u8
+#EXTINF:-1, tvg-name="BHOJPURI Junction" tvg-logo="" group-title="BHOJPURI TV",BHOJPURI Junction
+http://10.40.255.243/app/dplay.php?&cid=2229&id=Bhojpuri_Junction_MOB-audio_98835_eng=98800-video=2293600.m3u8
+#EXTINF:-1,tvg-name="SAGA Music" tvg-logo="" group-title="MUSIC",SAGA Music
+http://10.40.255.243/app/dplay.php?&cid=2750&id=Saga_Music_MOB-audio_98836_eng=98800-video=2293600.m3u8
+#EXTINF:-1,tvg-name="Saga Mucic Haryanvi" tvg-logo="" group-title="MUSIC",Saga Mucic Haryanvi
+http://10.40.255.243/app/dplay.php?&cid=2751&id=Saga_Music_Haryanvi_MOB-audio_98836_eng=98800-video=2293600.m3u8
+#EXTINF:-1,tvg-name="Balle Balle TV" tvg-logo="" group-title="PUNJABI",Balle Balle TV
+http://10.40.255.243/app/dplay.php?&cid=1453&id=Balle_Balle_TV_MOB-audio_98900_und=97200-video=840000.m3u8
+#EXTINF:-1,tvg-name="Punjabi Hits" tvg-logo="" group-title="PUNJABI",Punjabi Hits
+http://10.40.255.243/app/dplay.php?&cid=2934&id=Punjabi_Hits_MOB-audio_98834_hin=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="HISTORY TV" tvg-logo="" group-title="GEO INFOTAINMENT",HISTORY TV
+http://172.172.171.2/hls19/stream_20.m3u8
+#EXTINF:-1 tvg-name="MOVIES NOW" tvg-logo="" group-title="ENGLISH MOVIES",MOVIES NOW
+http://103.51.21.134/app/ts_live_151.m3u8
+#EXTINF:-1 tvg-name="TRAVELXP HD" tvg-logo="" group-title="LIFESTYLE",TRAVELXP HD
+
+http://103.51.21.134/app/ts_live_164.m3u8
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="" group-title="CARTOON & KIDS",CARTOON NETWORK
+
+http://10.40.255.243/app/dplay.php?&cid=816&id=Cartoon_Network_Hindi_MOB-audio_98834_hin=98800-video=1680400.m3u8
+
+#EXTINF:-1 tvg-name="B4U MOVIES" tvg-logo="" group-title="HINDI MOVIES",B4U MOVIES
+https://103.51.21.134:443/app/ts_live_182.m3u8
+#EXTINF:-1tvg-name= "CNN" tvg-logo="" group-title="ENGLISH NEWS", CNN
+http://103.51.21.134/app/ts_live_193.m3u8
+#EXTINF:-1 tvg-name= "COLORS GUJRATI" tvg-logo="" group-title="GUJRATI", COLORS GUJRATI
+http://103.51.21.134/app/ts_live_196.m3u8
+
+#EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-type="Entertainment" group-title="TS-JioTV Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
+http://10.40.255.243/app/dplay.php?&cid=202&id=DD_National_MOB-audio_98835_hin=98800-video=1680400.m3u8
+#EXTINF:-1  tvg-name= "Discovery" tvg-logo="" group-title="GEO INFOTAINMENT",Discovery
+http://172.172.171.2/hls19/stream_12.m3u8
+#EXTINF:-1 tvg-name= "9x jhakaas" tvg-logo="" group-title="MUSIC",9x jhakaas
+http://103.51.21.134/app/ts_live_441.m3u8
+#EXTINF:-1 tvg-name= "MTV" tvg-logo="" group-title="MUSIC",MTV
+http://103.51.21.134/app/ts_live_248.m3u8
+#EXTINF:-1 tvg-name= "MTV HD" tvg-logo="" group-title="MUSIC",MTV HD
+http://10.40.255.243/app/dplay.php?&cid=1145&id=MTV_HD_Plus_MOB-audio_98835_eng=98800-video=2293600.m3u8
+#EXTINF:-1 tvg-name= "MUSIC INDIA " tvg-logo="" group-title="MUSIC",MUSIC INDIA 
+http://10.40.255.243/app/dplay.php?&cid=250&id=Music_India_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name= "NDTV PROFIT" tvg-logo="" group-title="BUSINESS NEWS",NDTV PROFIT
+http://172.172.171.2/hls19/stream_11.m3u8
+#EXTINF:-1 tvg-name= "COLORS RISHTEY " tvg-logo="" group-title="HINDI ENTERTAINMENT",COLORS RISHTEY 
+http://172.172.171.2/hls19/stream_15.m3u8
+#EXTINF:-1 tvg-name="DD News" tvg-logo="" group-title="HINDI NEWS",DD News
+http://10.40.255.243/app/dplay.php?&cid=203&id=DD_News_MOB-audio_98834_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name= "ANIMAL PLANET HD" tvg-logo="" group-title="GEO INFOTAINMENT",ANIMAL PLANET HD
+http://10.40.255.243/app/dplay.php?&cid=286&id=Animal_Planet_HD_MOB-audio_98835_eng=98800-video=2293600.m3u8
+#EXTINF:-1 tvg-name= " TIMES NOW " tvg-logo="" group-title="ENGLISH NEWS",TIMES NOW 
+http://10.40.255.243/app/dplay.php?&cid=383&id=Times_NOW_MOB-audio_98834_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name= "PM EVIDYA" tvg-logo="" group-title="OTHERS",  PM EVIDYA
+http://103.51.21.134/app/ts_live_400.m3u8
+
+#EXTINF:-1 tvg-name= "J MOVIEN" tvg-logo="" group-title="TAMILI", J MOVIE
+http://10.40.255.243/app/dplay.php?&cid=417&id=J_Movies_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name= "JAYA PLUS" tvg-logo="" group-title="TAMILI",JAYA PLUS
+http://10.40.255.243/app/dplay.php?&cid=418&id=Jaya_Plus_MOB-audio_98834_tam=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name= " JAYA TV HD" tvg-logo="" group-title="TAMILI", JAYA TV HD
+http://10.40.255.243/app/dplay.php?&cid=419&id=Jaya_TV_HD_MOB-audio_98834_tam=98800-video=2293600.m3u8
+#EXTINF:-1 tvg-name= " JAYA MAX" tvg-logo="" group-title="TAMILI", JAYA MAX
+http://10.40.255.243/app/dplay.php?&cid=420&id=Jaya_Max_MOB-audio_100034_eng=100000-video=1830000.m3u8
+#EXTINF:-1 tvg-name= "COLORS TAMIL HD" tvg-logo="" group-title="TAMILI",COLORS TAMIL HD
+http://10.40.255.243/app/dplay.php?&cid=429&id=Colors_Tamil_HD_MOB-audio_98834_eng=98800-video=2293600.m3u8
+#EXTINF:-1 tvg-name= "STAR VIJAY" tvg-logo="" group-title="TAMILI",STAR VIJAY
+http://172.172.171.2/hls/modn/list/8138/playlist.m3u8
+#EXTINF:-1 tvg-name="9XM JALWA " tvg-logo="" group-title="MUSIC",9XM JALWA 
+http://103.51.21.134/app/ts_live_440.m3u8
+#EXTINF:-1 tvg-name="9X JHAKAS" tvg-logo="" group-title="MUSIC",9X JHAKAS
+http://103.51.21.134/app/ts_live_441.m3u8
+#EXTINF:-1 tvg-name="ZEE 24 TAAS" tvg-logo="" group-title="MARATHI",ZEE 24 TAAS
+http://103.51.21.134/app/ts_live_442.m3u8
+#EXTINF:-1 tvg-name="Discovery HD WORD" tvg-logo="" group-title="GEO INFOTAINMENT",Discovery HD WORD
+
+http://103.51.21.134/app/ts_live_463.m3u8
+#EXTINF:-1 tvg-name="ZEE 24 GHANTA" tvg-logo="" group-title="BENGALI",ZEE 24 GHANTA
+http://103.51.21.134/app/ts_live_464.m3u8
+#EXTINF:-1 tvg-name="JAI HIND TV" tvg-logo="" group-title="HINDI NEWS",JAI HIND TV
+http://10.40.255.243/app/dplay.php?&cid=465&id=Jaihind_tv_MOB-audio_90034_eng=90000-video=1830000.m3u8
+#EXTINF:-1 tvg-name="NDTV 24X7" tvg-logo="" group-title="HINDI NEWS",NDTV 24X7
+http://10.40.255.243/app/dplay.php?&cid=255&id=NDTV_24x7_MOB-audio_98834_hin=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="ARIHANT TV" tvg-logo="" group-title="DEVOTIONAL",ARIHANT TV
+http://10.40.255.243/app/dplay.php?&cid=466&id=Arihant_TV_MOB-audio_98836_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="TLC HD" tvg-logo="" group-title="LIFESTYLE",TLC HD
+http://10.40.255.243/app/dplay.php?&cid=479&id=TLC_HD_World_MOB-audio_98835_eng=98800-video=2293600.m3u8
+#EXTINF:-1 tvg-name="EPIC" tvg-logo="" group-title="LIFESTYLE",EPIC
+http://172.172.171.2/hls18/stream_11.m3u8
+#EXTINF:-1 tvg-name="COLORS CINEPLEX" tvg-logo="" group-title="HINDI MOVIES",COLORS CINEPLEX
+http://172.172.171.2/hls19/stream_14.m3u8
+#EXTINF:-1 tvg-name="COLORS CINE SUPERHIT" tvg-logo="" group-title="HINDI MOVIES",COLORS CINE SUPERHIT
+http://172.172.171.2/hls/modn/list/8025/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNN Regional News 18" tvg-logo="" group-title="ENGLISH NEWS", CNN Regional News 18
+http://103.51.21.134/app/ts_live_492.m3u8
+#EXTINF:-1 tvg-name="AL ZAZEERA" tvg-logo="" group-title="ENGLISH NEWS",AL ZAZEERA
+
+http://103.51.21.134/app/ts_live_494.m3u8
+#EXTINF:-1 tvg-name="Regional News X" tvg-logo="" group-title="ENGLISH NEWS",Regional News X
+http://103.51.21.134/app/ts_live_495.m3u8
+#EXTINF:-1 tvg-name="DW" tvg-logo="" group-title="ENGLISH NEWS",DW
+http://103.51.21.134/app/ts_live_496.m3u8
+#EXTINF:-1 tvg-name="INDIA Regional News" tvg-logo="" group-title="HINDI NEWS",INDIA Regional News
+
+http://103.51.21.134/app/ts_live_498.m3u8
+#EXTINF:-1 tvg-name="Regional News NATION" tvg-logo="" group-title="HINDI NEWS",Regional News NATION
+http://103.51.21.134/app/ts_live_499.m3u8
+#EXTINF:-1 tvg-name="Regional News 24" tvg-logo="" group-title="HINDI NEWS",Regional News 24
+http://103.51.21.134/app/ts_live_501.m3u8
+#EXTINF:-1 tvg-name="GOOD Regional News TODAY" tvg-logo="" group-title="HINDI NEWS",GOOD Regional News TODAY
+http://103.51.21.134/app/ts_live_502.m3u8
+#EXTINF:-1 tvg-name="IBC 24" tvg-logo="" group-title="HINDI NEWS",IBC 24
+http://10.40.255.243/app/dplay.php?&cid=503&id=IBC24_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="ZEE Regional News" tvg-logo="" group-title="HINDI NEWS",ZEE Regional News
+http://103.51.21.134/app/ts_live_504.m3u8
+#EXTINF:-1 tvg-name="VIP Regional News" tvg-logo="" group-title="HINDI NEWS",VIP Regional News
+http://103.51.21.134/app/ts_live_510.m3u8
+#EXTINF:-1 tvg-name="MH Regional News  " tvg-logo="" group-title="HINDI NEWS",MH Regional News  
+http://103.51.21.134/app/ts_live_511.m3u8
+#EXTINF:-1 tvg-name="INDIA Regional News UP " tvg-logo="" group-title="HINDI NEWS",INDIA Regional News UP
+http://103.51.21.134/app/ts_live_512.m3u8
+#EXTINF:-1 tvg-name="INDIA Regional News RAJSTHAN" tvg-logo="" group-title="HINDI NEWS",INDIA Regional News RAJSTHAN
+http://103.51.21.134/app/ts_live_513.m3u8
+#EXTINF:-1 tvg-name="INDIA Regional News MP" tvg-logo="" group-title="HINDI NEWS",INDIA Regional News MP
+http://10.40.255.243/app/dplay.php?&cid=513&id=India_News_Rajasthan_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="INDIA Regional News HARIYANA" tvg-logo="" group-title="HINDI NEWS",INDIA Regional News HARIYANA
+
+
+http://103.51.21.134/app/ts_live_516.m3u8
+#EXTINF:-1  tvg-name="CHARDIKALATV" tvg-logo="" group-title="HINDI NEWS",CHARDIKALATV
+
+
+http://103.51.21.134/app/ts_live_517.m3u8
+
+#EXTINF:-1  tvg-name="SADHANA Regional News " tvg-logo="" group-title="HINDI NEWS",SADHANA Regional News 
+
+http://103.51.21.134/app/ts_live_519.m3u8
+
+#EXTINF:-1 tvg-name="Investigation Discovery" tvg-logo="" group-title="GEO INFOTAINMENT",Investigation Discovery
+
+
+http://172.172.171.2/hls19/stream_12.m3u8
+#EXTINF:-1 tvg-name="DD INDIA" tvg-logo="" group-title="DD",DD INDIA
+
+
+http://103.51.21.134/app/ts_live_528.m3u8
+#EXTINF:-1 tvg-name="Regional News 18 UP" tvg-logo="" group-title="HINDI NEWS",Regional News 18 UP
+http://103.51.21.134/app/ts_live_530.m3u8
+#EXTINF:-1 tvg-name=" Regional News 18 RAJASTHAN" tvg-logo="" group-title="HINDI NEWS", Regional News 18 RAJASTHAN 
+http://103.51.21.134/app/ts_live_531.m3u8
+#EXTINF:-1 tvg-name=" RAJ PARIWAR" tvg-logo="" group-title="LIFESTYLE", RAJ PARIWAR
+http://103.51.21.134/app/ts_live_533.m3u8
+#EXTINF:-1 tvg-name="ROMEDY NOW" tvg-logo="" group-title="LIFESTYLE",ROMEDY NOW
+http://172.172.171.2/hls/modn/list/8035/playlist.m3u8
+#EXTINF:-1 tvg-name=" DHAMAAL TV" tvg-logo="" group-title="HINDI ENTERTAINMENT", DHAMAAL TV
+http://10.40.255.243/app/dplay.php?&cid=535&id=Dhamaal_TV_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="DD MADHYA PRADESH" tvg-logo="" group-title="DD", DD MADHYA PRADESH
+http://10.40.255.243/app/dplay.php?&cid=536&id=DD_Madhya_Pradesh_MOB-audio_98834_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="DD RAJASTHAN" tvg-logo="" group-title="DD", DD RAJASTHAN
+http://10.40.255.243/app/dplay.php?&cid=538&id=DD_Rajasthan_Jaipur_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="DD BIHAR" tvg-logo="" group-title="DD",DD BIHAR
+http://10.40.255.243/app/dplay.php?&cid=539&id=DD_Bihar_MOB-audio_98836_eng=98800-video=1680400.m3u8
+
+#EXTINF:-1 tvg-name="Discovery TURBO" tvg-logo="" group-title="GEO INFOTAINMENT",Discovery TURBO
+http://10.40.255.243/app/dplay.php?&cid=541&id=Discovery_Turbo_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="NICK JR" tvg-logo="" group-title="CARTOON & KIDS",NICK JR
+http://10.40.255.243/app/dplay.php?&cid=548&id=Nick_Jr_Hin_MOB-audio_98837_hin=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="NICK HINDI" tvg-logo="" group-title="CARTOON & KIDS",NICK HINDI
+http://10.40.255.243/app/dplay.php?&cid=545&id=Nick_Hindi_MOB-audio_98841_hin=98800-video=1680400.m3u8
+
+
+#EXTINF:-1 tvg-name="NAAPTOL" tvg-logo="" group-title="OTHERS",NAAPTOL
+http://103.51.21.134/app/ts_live_551.m3u8
+#EXTINF:-1 tvg-name="Discovery KIDS 2" tvg-logo="" group-title="CARTOON & KIDS",Discovery KIDS 2
+http://10.40.255.243/app/dplay.php?&cid=554&id=Discovery_Kids_2_MOB-audio_98835_hin=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name=" CHINTU TV" tvg-logo="" group-title="TELUGU", CHINTU TV
+http://10.40.255.243/app/dplay.php?&cid=555&id=Chintu_TV_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="KOCHI TV" tvg-logo="" group-title="TELUGU",KOCHI TV
+http://10.40.255.243/app/dplay.php?&cid=556&id=Kochu_TV_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="CHUTTI TV" tvg-logo="" group-title="TELUGU",CHUTTI 
+http://10.40.255.243/app/dplay.php?&cid=557&id=Chutti_TV_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name=" KHUSI TV" tvg-logo="" group-title="TELUGU", KHUSI TV
+http://10.40.255.243/app/dplay.php?&cid=558&id=Kushi_TV_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="POGO TV" tvg-logo="" group-title="CARTOON & KIDS",POGO TV
+http://10.40.255.243/app/dplay.php?&cid=559&id=Pogo_Hindi_MOB-audio_98834_hin=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name=" GOOD TIME" tvg-logo="" group-title="LIFESTYLE",GOOD TIME
+http://10.40.255.243/app/dplay.php?&cid=560&id=NDTV_Good_Times_MOB-audio_98834_hin=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="ETV Telugu" tvg-logo="" group-title="TELUGU", ETV Telugu
+http://172.172.171.2/hls/stream_33.m3u8
+#EXTINF:-1 tvg-name="ETV" tvg-logo="" group-title="TELUGU", ETV
+http://172.172.171.2/hls/stream_35.m3u8
+#EXTINF:-1 tvg-name="FOOD FOOD" tvg-logo="" group-title="LIFESTYLE",FOOD FOOD
+http://10.40.255.243/app/dplay.php?&cid=561&id=Food_Food_MOB-audio_98834_hin=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="TRAVEL XP" tvg-logo="" group-title="GEO INFOTAINMENT",TRAVEL XP
+http://10.40.255.243/app/dplay.php?&cid=562&id=Travel_XP_MOB-audio_98836_hin=98800-video=2293600.m3u8
+
+#EXTINF:-1 tvg-name=" ANIMAL PLANET HINDI" tvg-logo="" group-title="GEO INFOTAINMENT", ANIMAL PLANET HINDI
+http://10.40.255.243/app/dplay.php?&cid=566&id=Animal_Planet_Hindi_MOB-audio_98834_hin=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name=" ANIMAL PLANET ENGLISH" tvg-logo="" group-title="GEO INFOTAINMENT", ANIMAL PLANET ENGLISH
+http://10.40.255.243/app/dplay.php?&cid=567&id=Animal_Planet_Eng_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name=" Discovery SCIENCE" tvg-logo="" group-title="GEO INFOTAINMENT", Discovery SCIENCE
+http://10.40.255.243/app/dplay.php?&cid=568&id=Discovery_Science_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="D TAMIL" tvg-logo="" group-title="TAMILI",D TAMIL
+http://10.40.255.243/app/dplay.php?&cid=569&id=Discovery_Channel_Tamil_MOB-audio_98835_tam=98800-video=1272000.m3u8
+#EXTINF:-1 tvg-name="TLC Hidni" tvg-logo="" group-title="LIFESTYLE", TLC Hindi
+http://10.40.255.243/app/dplay.php?&cid=571&id=TLC_Hindi_MOB-audio_98836_hin=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name=" Discovery BENGALI" tvg-logo="" group-title="BENGALI",  Discovery BENGALI
+http://10.40.255.243/app/dplay.php?&cid=573&id=Discovery_Channel_Ben_MOB-audio_98840_ben=98800-video=1680400.m3u8
+#EXTINF:-1  tvg-name="Discovery" tvg-logo="" group-title="GEO INFOTAINMENT",  Discovery
+http://172.172.171.2/hls19/stream_12.m3u8
+
+#EXTINF:-1 tvg-name="HISTORY TV HIND HD" tvg-logo="" group-title="GEO INFOTAINMENT", HISTORY TV HIND HD
+http://172.172.171.2/hls19/stream_20.m3u8
+
+#EXTINF:-1  tvg-name="DD BHARTI" tvg-logo="" group-title="DD",DD BHARTI
+http://10.40.255.243/app/dplay.php?&cid=580&id=DD_bharati_MOB-audio_90034_eng=90000-video=1830000.m3u8
+#EXTINF:-1 tvg-name="DD KISHAN" tvg-logo="" group-title="DD",DD KISHAN
+http://10.40.255.243/app/dplay.php?&cid=580&id=DD_bharati_MOB-audio_90034_eng=90000-video=1830000.m3u8
+#EXTINF:-1 tvg-name="9XM" tvg-logo="" group-title="MUSIC",9XM
+http://103.51.21.134/app/ts_live_587.m3u8
+#EXTINF:-1 tvg-name="SADHANA TV" tvg-logo="" group-title="DEVOTIONAL",SADHANA TV
+http://103.51.21.134/app/ts_live_593.m3u8
+#EXTINF:-1 tvg-name="ASTHA BHAJAN" tvg-logo="" group-title="DEVOTIONAL",ASTHA BHAJAN
+http://10.40.255.243/app/dplay.php?&cid=594&id=Aastha_Bhajan_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="Jinvani" tvg-logo="" group-title="DEVOTIONAL",Jinvani
+http://10.40.255.243/app/dplay.php?&cid=596&id=Jinvani_TV_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="Satsang_TV" tvg-logo="" group-title="DEVOTIONAL",Satsang_TV
+http://10.40.255.243/app/dplay.php?&cid=597&id=Satsang_TV_MOB-audio_98834_eng=98800-video=1680400.m3u8
+
+#EXTINF:-1 tvg-name="VENKATESHWAR TV" tvg-logo="" group-title="DEVOTIONAL",VENKATESHWAR TV
+http://10.40.255.243/app/dplay.php?&cid=598&id=Sri_Venkateshwar_Bhakti_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="DISHA TV" tvg-logo="" group-title="DEVOTIONAL",DISHA TV
+http://10.40.255.243/app/dplay.php?&cid=599&id=Disha_tv_MOB-audio_98835_hin=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="ISHWAR TV" tvg-logo="" group-title="DEVOTIONAL",ISHWAR TV
+http://10.40.255.243/app/dplay.php?&cid=601&id=Ishwar_TV_MOB-audio_98835_hin=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="PARAS TV" tvg-logo="" group-title="DEVOTIONAL",PARAS TV
+http://10.40.255.243/app/dplay.php?&cid=602&id=Paras_tv_MOB-audio_99002_und=97200-video=1650000.m3u8
+#EXTINF:-1 tvg-name="SHALOM" tvg-logo="" group-title="MALAYALAM",SHALOM
+http://103.51.21.134/app/ts_live_606.m3u8
+#EXTINF:-1 tvg-name="SUBHVARTHA TV" tvg-logo="" group-title="LIFESTYLE",SUBHVARTHA TV
+http://103.51.21.134/app/ts_live_607.m3u8
+#EXTINF:-1 tvg-name="MH 1 SRADDHA" tvg-logo="" group-title="OTHERS",MH 1 SRADDHA
+http://103.51.21.134/app/ts_live_609.m3u8
+#EXTINF:-1 tvg-name="ABP MAJHA" tvg-logo="" group-title="MARATHI",ABP MAJHA
+http://103.51.21.134/app/ts_live_612.m3u8
+#EXTINF:-1 tvg-name="Regional News LINE" tvg-logo="" group-title="HINDI NEWS", Regional News LINE
+http://103.51.21.134/app/ts_live_613.m3u8
+#EXTINF:-1 tvg-name="Good News Today" tvg-logo="" group-title="HINDI NEWS",Good News Today
+http://103.51.21.134:80/app/ts_live_502.m3u8
+#EXTINF:-1 tvg-name="Regional News 18 TAMILNADU" tvg-logo="" group-title="TAMILI",Regional News 18 TAMILNADU
+http://103.51.21.134/app/ts_live_615.m3u8
+#EXTINF:-1 tvg-name="TV 9 GUJRAT" tvg-logo="" group-title="GUJRATI",TV 9 GUJRAT
+http://103.51.21.134/app/ts_live_616.m3u8
+#EXTINF:-1 tvg-name="E TV 9 MARATHI" tvg-logo="" group-title="MARATHI",E TV 9 MARATHI
+http://103.51.21.134/app/ts_live_617.m3u8
+#EXTINF:-1 tvg-name="TV 9 Telgu " tvg-logo="" group-title="TELUGU",TV 9 Telgu
+http://103.51.21.134/app/ts_live_618.m3u8
+#EXTINF:-1 tvg-name="Regional News 18 GUJRAT" tvg-logo="" group-title="GUJRATI",Regional News 18 GUJRAT
+http://103.51.21.134/app/ts_live_620.m3u8
+#EXTINF:-1 tvg-name="RANG" tvg-logo="" group-title="BENGALI",RANG
+http://103.51.21.134/app/ts_live_623.m3u8
+#EXTINF:-1 tvg-name="PRAG Regional News" tvg-logo="" group-title="HINDI NEWS",PRAG Regional News
+http://103.51.21.134/app/ts_live_624.m3u8
+#EXTINF:-1 tvg-name="SUVARNA Regional News" tvg-logo="" group-title="HINDI NEWS",SUVARNA Regional News
+http://10.40.255.243/app/dplay.php?&cid=626&id=Suvarna_News_MOB-audio_98836_mal=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="Regional News 18 AASAM" tvg-logo="" group-title="HINDI NEWS",Regional News 18 AASAM
+http://10.40.255.243/app/dplay.php?&cid=627&id=News_18_Assam_MOB-audio_98835_eng=98800-video=1272000.m3u8
+
+
+#EXTINF:-1 tvg-name="MBC TV " tvg-logo="" group-title="ODIA",MBC TV
+http://10.40.255.243/app/dplay.php?&cid=631&id=MBC_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="SAKSI TV" tvg-logo="" group-title="TELUGU",SAKSI TV
+http://10.40.255.243/app/dplay.php?&cid=632&id=Sakshi_tv_MOB-audio_97234_und=97200-video=1700000.m3u8
+#EXTINF:-1 tvg-name="DAY 365" tvg-logo="" group-title="BENGALI",DAY 365
+http://10.40.255.243/app/dplay.php?&cid=633&id=DY_365_MOB-audio_98836_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="FLOWER TV" tvg-logo="" group-title="MALAYALAM",FLOWER TV
+http://10.40.255.243/app/dplay.php?&cid=634&id=Flower_TV_MOB-audio_98834_hin=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="POLYMER Regional News" tvg-logo="" group-title="TAMILI",POLYMER Regional News
+http://10.40.255.243/app/dplay.php?&cid=636&id=Polimer_News_MOB-audio_98835_eng=98800-video=2293600.m3u8
+#EXTINF:-1 tvg-name="NORTH EAST LIVE" tvg-logo="" group-title="ENGLISH NEWS",NORTH EAST LIVE
+http://10.40.255.243/app/dplay.php?&cid=637&id=North_East_Live_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="RAMDHENU" tvg-logo="" group-title="ODIA",RAMDHENU
+http://10.40.255.243/app/dplay.php?&cid=639&id=Ramdhenu_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="ABP ASMITHA" tvg-logo="" group-title="GUJRATI",ABP ASMITHA
+http://10.40.255.243/app/dplay.php?&cid=641&id=ABP_Asmita_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="VTV GUJRATI" tvg-logo="" group-title="GUJRATI",VTV GUJRATI
+http://10.40.255.243/app/dplay.php?&cid=642&id=VTV_Gujarati_MOB-audio_98836_guj=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="GS TV" tvg-logo="" group-title="GUJRATI",GS TV
+http://10.40.255.243/app/dplay.php?&cid=643&id=GS_TV_MOB-audio_98834_hin=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="NTV" tvg-logo="" group-title="TELUGU",NTV
+http://10.40.255.243/app/dplay.php?&cid=646&id=NTV_MOB-audio_98834_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="PRATIDIN TIME" tvg-logo="" group-title="BENGALI",PRATIDIN TIME
+http://10.40.255.243/app/dplay.php?&cid=647&id=Pratidin_News_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="MAZHAVI MANORAMA " tvg-logo="" group-title="MALAYALAM",MAZHAVI MANORAMA
+http://10.40.255.243/app/dplay.php?&cid=648&id=Mazhavil_Manorama_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="RAJ Regional News MALYALAM" tvg-logo="" group-title="MALAYALAM",RAJ Regional News MALYALAM
+http://10.40.255.243/app/dplay.php?&cid=650&id=Raj_News_Malayalam_MOB-audio_98834_Mal=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="RAJ Regional News KANNADA" tvg-logo="" group-title="KANNADA",RAJ Regional News KANNADA
+http://10.40.255.243/app/dplay.php?&cid=651&id=Raj_News_Kannada_MOB-audio_98835_kan=98800-video=1680400.m3u8
+
+#EXTINF:-1 tvg-name="ZEE Regional News KANNADA" tvg-logo="" group-title="KANNADA",ZEE Regional News KANNADA
+http://10.40.255.243/app/dplay.php?&cid=653&id=ETV_Kannada_News_MOB-audio_98835_eng=98800-video=1272000.m3u8
+#EXTINF:-1 tvg-name="ZEE PANJABI HARIYANA" tvg-logo="" group-title="PUNJABI",ZEE PANJABI HARIYANA
+http://10.40.255.243/app/dplay.php?&cid=654&id=Zee_Punjabi_HP_Haryana_MOB-audio_98834_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="Regional News 18 PUNJAB HARYANA" tvg-logo="" group-title="PUNJABI",Regional News 18 PUNJAB HARYANA
+http://10.40.255.243/app/dplay.php?&cid=655&id=News18_Punjab_Haryana_MOB-audio_98835_eng=98800-video=1272000.m3u8
+
+#EXTINF:-1 tvg-name="ZEE BUSINESS" tvg-logo="" group-title="BUSINESS NEWS",ZEE BUSINESS
+http://10.40.255.243/app/dplay.php?&cid=657&id=Zee_Business_MOB-audio_98834_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="ZEE Regional News MP CHHATISGARH" tvg-logo="" group-title="HINDI NEWS",ZEE Regional News MP CHHATISGARH
+http://10.40.255.243/app/dplay.php?&cid=658&id=Zee_News_MP_Chattisgarh_MOB-audio_98834_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="ZEE RAJSTHAN" tvg-logo="" group-title="HINDI NEWS",ZEE RAJSTHAN
+http://10.40.255.243/app/dplay.php?&cid=659&id=Zee_Rajasthan_MOB-audio_98834_eng=98800-video=1680400.m3u8
+
+#EXTINF:-1 tvg-name="MANORAMA Regional News" tvg-logo="" group-title="MALAYALAM",MANORAMA Regional News
+http://10.40.255.243/app/dplay.php?&cid=662&id=Manorama_News_MOB-audio_98835_tel=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="RAJ Regional News TELGU " tvg-logo="" group-title="TELUGU",RAJ Regional News TELGU
+http://10.40.255.243/app/dplay.php?&cid=664&id=Raj_News_Telugu_MOB-audio_90034_eng=90000-video=1770000.m3u8
+#EXTINF:-1 tvg-name="HMTV" tvg-logo="" group-title="TELUGU",HMTV
+http://10.40.255.243/app/dplay.php?&cid=665&id=HM_TV_MOB-audio_97501_und=97200-video=1650000.m3u8
+#EXTINF:-1 tvg-name="ABN ANDHRA JYOTI" tvg-logo="" group-title="TELUGU",ABN ANDHRA JYOTI
+http://10.40.255.243/app/dplay.php?&cid=666&id=ABN_Andhra_Jyothi_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="T Regional News" tvg-logo="" group-title="TELUGU",T Regional News
+http://10.40.255.243/app/dplay.php?&cid=667&id=T_News_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="TV 5 Regional News" tvg-logo="" group-title="TELUGU",TV 5 Regional News
+http://10.40.255.243/app/dplay.php?&cid=668&id=TV_5_News_MOB-audio_108035_tel=108000-video=1684400.m3u8
+#EXTINF:-1 tvg-name="6 TV" tvg-logo="" group-title="TELUGU",6 TV
+http://10.40.255.243/app/dplay.php?&cid=670&id=6_TV_MOB-audio_98835_tel=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="SATHIYAM TV" tvg-logo="" group-title="TAMILI",SATHIYAM TV
+http://10.40.255.243/app/dplay.php?&cid=671&id=Sathiyam_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="ABP ANADA" tvg-logo="" group-title="BENGALI",ABP ANADA
+http://10.40.255.243/app/dplay.php?&cid=672&id=ABP_Ananda_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="ASAM TALK" tvg-logo="" group-title="BENGALI",ASAM TALK
+http://10.40.255.243/app/dplay.php?&cid=675&id=Assam_Talks_MOB-audio_110034_eng=110000-video=1830000.m3u8
+#EXTINF:-1 tvg-name="SUN Regional News" tvg-logo="" group-title="TAMILI",SUN Regional News
+http://10.40.255.243/app/dplay.php?&cid=676&id=Sun_News_MOB-audio_98835_eng=98800-video=1272000.m3u8
+#EXTINF:-1 tvg-name="PUTHIYA TALIMURAI" tvg-logo="" group-title="TAMILI",PUTHIYA TALIMURAI
+http://10.40.255.243/app/dplay.php?&cid=677&id=Puthiya_Thalimurai_MOB-audio_108035_tel=108000-video=1684400.m3u8
+#EXTINF:-1 tvg-name="SUN LIFE" tvg-logo="" group-title="TAMILI",SUN LIFE
+http://103.51.21.134/app/ts_live_682.m3u8
+#EXTINF:-1 tvg-name="RAJ DIGITAL PLUS" tvg-logo="" group-title="TAMILI",RAJ DIGITAL PLUS
+http://103.51.21.134/app/ts_live_683.m3u8
+#EXTINF:-1 tvg-name="GEMINI PLUS" tvg-logo="" group-title="TELUGU",GEMINI PLUS
+http://103.51.21.134/app/ts_live_684.m3u8
+#EXTINF:-1, tvg-name="DD BANGLA " tvg-logo="" group-title="BENGALI",DD BANGLA 
+http://10.40.255.243/app/dplay.php?&cid=690&id=DD_Bangla_MOB-audio_98835_ben=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="E TV PLUS" tvg-logo="" group-title="TELUGU",E TV PLUS
+http://103.51.21.134/app/ts_live_692.m3u8
+#EXTINF:-1 tvg-name="News 18 odiya" tvg-logo="" group-title="ODIA",News 18 odiya
+http://103.51.21.134/app/ts_live_696.m3u8
+
+
+#EXTINF:-1 tvg-name="NE Regional News" tvg-logo="" group-title="ENGLISH NEWS",NE Regional News
+http://103.51.21.134/app/ts_live_3217.m3u8
+#EXTINF:-1 tvg-name="Krishi Pitaara" tvg-logo="" group-title="GEO INFOTAINMENT",Krishi Pitaara
+http://103.51.21.134/app/ts_live_3216.m3u8
+#EXTINF:-1 tvg-name=" Vyasa TV" tvg-logo="" group-title="TELUGU", Vyasa TV
+http://103.51.21.134/app/ts_live_3215.m3u8
+#EXTINF:-1 tvg-name="Vertent Samachar Plus 24x7" tvg-logo="" group-title="HINDI NEWS",Vertent Samachar Plus 24x7
+http://103.51.21.134/app/ts_live_3214.m3u8
+#EXTINF:-1 tvg-name="Gusto TV" tvg-logo="" group-title="LIFESTYLE",Gusto TV
+http://103.51.21.134/app/ts_live_3213.m3u8
+#EXTINF:-1 tvg-name="Penta TV" tvg-logo="" group-title="LIFESTYLE",Penta TV
+http://103.51.21.134/app/ts_live_3204.m3u8
+#EXTINF:-1 tvg-name="Nation Khabar" tvg-logo="" group-title="HINDI NEWS",Nation Khabar
+http://10.40.255.243/app/dplay.php?&cid=3203&id=Nation_Khabar_MOB-audio_108035_hin=108000-video=2297600.m3u8
+#EXTINF:-1 tvg-name="KTV Gujrati" tvg-logo="" group-title="GUJRATI",KTV Gujrati
+http://103.51.21.134/app/ts_live_3202.m3u8
+
+#EXTINF:-1 tvg-name="T TV" tvg-logo="" group-title="LIFESTYLE",T TV
+http://103.51.21.134/app/ts_live_3194.m3u8
+#EXTINF:-1 tvg-name="AOne Regional News" tvg-logo="" group-title="HINDI NEWS",AOne Regional News
+http://103.51.21.134/app/ts_live_3192.m3u8
+#EXTINF:-1 tvg-name="Bharat Times Regional News" tvg-logo="" group-title="HINDI NEWS",Bharat Times Regional News
+http://103.51.21.134/app/ts_live_3191.m3u8
+#EXTINF:-1 tvg-name="Chanakya Regional News National" tvg-logo="" group-title="HINDI NEWS",Chanakya Regional News National
+http://103.51.21.134/app/ts_live_3190.m3u8
+#EXTINF:-1 tvg-name="Chanakya Regional News India Rajasthan" tvg-logo="" group-title="HINDI NEWS",Chanakya Regional News India Rajasthan
+http://103.51.21.134/app/ts_live_3189.m3u8
+#EXTINF:-1 tvg-name="Apna Pradesh" tvg-logo="" group-title="HINDI NEWS",Apna Pradesh
+http://103.51.21.134/app/ts_live_3188.m3u8
+#EXTINF:-1 tvg-name="Prabhu Sandesh" tvg-logo="" group-title="DEVOTIONAL",Prabhu Sandesh
+http://10.40.255.243/app/dplay.php?&cid=3187&id=Prabhu_Sandesh_MOB-audio_98836_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="Public Asia" tvg-logo="" group-title="HINDI NEWS",Public Asia
+http://103.51.21.134/app/ts_live_3186.m3u8
+#EXTINF:-1 tvg-name="Regional News Ground 24x7" tvg-logo="" group-title="HINDI NEWS",Regional News Ground 24x7
+http://103.51.21.134/app/ts_live_3185.m3u8
+#EXTINF:-1 tvg-name="Regional News Malayalam" tvg-logo="" group-title="MALAYALAM",Regional News Malayalam
+http://103.51.21.134/app/ts_live_3184.m3u8
+#EXTINF:-1 tvg-name="Animal Planet Telugu" tvg-logo="" group-title="TELUGU",Animal Planet Telugu
+http://103.51.21.134/app/ts_live_3183.m3u8
+#EXTINF:-1 tvg-name="Animal Planet HD Telugu" tvg-logo="" group-title="TELUGU",Animal Planet HD Telugu
+http://103.51.21.134/app/ts_live_3182.m3u8
+#EXTINF:-1 tvg-name="Regional News Nation 81" tvg-logo="" group-title="HINDI NEWS",Regional News Nation 81
+http://103.51.21.134/app/ts_live_3181.m3u8
+#EXTINF:-1 Bharat Times Regional News Gujrati 
+http://103.51.21.134/app/ts_live_3180.m3u8
+#EXTINF:-1 tvg-name="Regional News Marathi " tvg-logo="" group-title="MARATHI",Regional News Marathi
+http://103.51.21.134/app/ts_live_3179.m3u8
+
+#EXTINF:-1 tvg-name="Bhakti_Dhara" tvg-logo="" group-title="DEVOTIONAL",Bhakti_Dhara
+http://10.40.255.243/app/dplay.php?&cid=3236&id=Bhakti_Dhara_MOB-audio_98834_hin=98800-video=2293600.m3u8
+#EXTINF:-1 tvg-name="Telugu Naaptol" tvg-logo="" group-title="TELUGU",Telugu Naaptol
+http://103.51.21.134/app/ts_live_3176.m3u8
+
+
+#EXTINF:-1 tvg-name="India 24x7 Aap Tak TV" tvg-logo="" group-title="HINDI NEWS",India 24x7 Aap Tak TV
+http://103.51.21.134/app/ts_live_3172.m3u8
+#EXTINF:-1 tvg-name="Khabar 70" tvg-logo="" group-title="HINDI NEWS",Khabar 70
+http://103.51.21.134/app/ts_live_3171.m3u8
+#EXTINF:-1 tvg-name="Regional News 24 Tass" tvg-logo="" group-title="HINDI NEWS",Regional News 24 Tass
+http://103.51.21.134/app/ts_live_3170.m3u8
+#EXTINF:-1 tvg-name="Sky India Tv" tvg-logo="" group-title="HINDI NEWS",Sky India Tv
+http://103.51.21.134/app/ts_live_235.m3u8
+#EXTINF:-1 tvg-name="Lok Manch Marathi" tvg-logo="" group-title="MARATHI",Lok Manch Marathi
+http://103.51.21.134/app/ts_live_3167.m3u8
+#EXTINF:-1 tvg-name="Live Times" tvg-logo="" group-title="HINDI NEWS",Live Times
+http://103.51.21.134/app/ts_live_3166.m3u8
+#EXTINF:-1 tvg-name="Shri Regional News" tvg-logo="" group-title="HINDI NEWS",Shri Regional News
+http://103.51.21.134/app/ts_live_3164.m3u8
+#EXTINF:-1 tvg-name="Khabar 24x7 Regional News" tvg-logo="" group-title="HINDI NEWS",Khabar 24x7 Regional News
+http://103.51.21.134/app/ts_live_3163.m3u8
+
+#EXTINF:-1 tvg-name="Regional News 8 Odia" tvg-logo="" group-title="ODIA",Regional News 8 Odia
+http://103.51.21.134/app/ts_live_3161.m3u8
+#EXTINF:-1 tvg-name="Kathaamrut TV" tvg-logo="" group-title="GUJRATI",Kathaamrut TV
+http://103.51.21.134/app/ts_live_3153.m3u8
+#EXTINF:-1 tvg-name="Regional News State Punjab Haryana Himachal" tvg-logo="" group-title="HINDI NEWS",Regional News State Punjab Haryana Himachal
+http://103.51.21.134/app/ts_live_3152.m3u8
+
+#EXTINF:-1 tvg-name="Ekamra Bharat Rastriya" tvg-logo="" group-title="ODIA",Ekamra Bharat Rastriya
+http://103.51.21.134/app/ts_live_3150.m3u8
+#EXTINF:-1  tvg-name="City Music" tvg-logo="" group-title="ODIA",City Music
+http://103.51.21.134/app/ts_live_3149.m3u8
+#EXTINF:-1 tvg-name="Live India Regional News 24" tvg-logo="" group-title="HINDI NEWS",Live India Regional News 24
+#EXTINF:-1 tvg-name="DD Sathee 8" tvg-logo="" group-title="DD",DD Sathee 8
+http://10.40.255.243/app/dplay.php?&cid=3145&id=DD_SATHEE_8_MOB-audio_98834_hin=98800-video=1987200.m3u8
+#EXTINF:-1 tvg-name="Navasarjan Sanskruti Gujrati" tvg-logo="" group-title="GUJRATI",Navasarjan Sanskruti Gujrati
+http://103.51.21.134/app/ts_live_3144.m3u8s
+
+#EXTINF:-1  tvg-name="Rajya 24 Regional News" tvg-logo="" group-title="HINDI NEWS",Rajya 24 Regional News
+http://103.51.21.134/app/ts_live_3117.m3u8
+
+#EXTINF:-1 tvg-name="Jay Jagannath" tvg-logo="" group-title="ODIA",Jay Jagannath
+http://103.51.21.134/app/ts_live_3115.m3u8
+
+#EXTINF:-1 tvg-name="Jk Samachar Regional News 27x7" tvg-logo="" group-title="HINDI NEWS",Jk Samachar Regional News 27x7
+http://103.51.21.134/app/ts_live_3113.m3u8
+
+#EXTINF:-1  tvg-name="ATV India Regional News" tvg-logo="" group-title="HINDI NEWS",ATV India Regional News
+http://103.51.21.134/app/ts_live_3111.m3u8
+#EXTINF:-1 tvg-name="sB Regional News 24x7" tvg-logo="" group-title="HINDI NEWS",sB Regional News 24x7
+http://103.51.21.134/app/ts_live_3110.m3u8
+
+#EXTINF:-1 tvg-name="Garvi Gujrati Gujarat" tvg-logo="" group-title="GUJRATI",Garvi Gujrati Gujarat 
+http://103.51.21.134/app/ts_live_3108.m3u8
+#EXTINF:-1  tvg-name="Bhakthi Siri" tvg-logo="" group-title="DEVOTIONAL",Bhakthi Siri
+http://103.51.21.134/app/ts_live_3107.m3u8
+#EXTINF:-1 tvg-name="National Tv India" tvg-logo="" group-title="HINDI NEWS",National Tv India
+http://103.51.21.134/app/ts_live_3105.m3u8
+#EXTINF:-1 tvg-name="smriti Patra TV" tvg-logo="" group-title="HINDI NEWS",smriti Patra TV
+http://103.51.21.134/app/ts_live_3104.m3u8
+#EXTINF:-1 tvg-name="Regional News UNI" tvg-logo="" group-title="HINDI NEWS",Regional News UNI
+http://103.51.21.134/app/ts_live_3103.m3u8
+#EXTINF:-1 tvg-name="NDTV Marathi" tvg-logo="" group-title="MARATHI",NDTV Marathi
+http://103.51.21.134/app/ts_live_3095.m3u8
+#EXTINF:-1 tvg-name="Sangam TV" tvg-logo="" group-title="DEVOTIONAL",Sangam TV
+http://103.51.21.134/app/ts_live_3089.m3u8
+#EXTINF:-1 tvg-name="Sun Neo HD" tvg-logo="" group-title="HINDI ENTERTAINMENT",Sun Neo HD
+http://103.51.21.134/app/ts_live_3088.m3u8
+#EXTINF:-1 tvg-name="Sai TV Telugu" tvg-logo="" group-title="TELUGU",Sai TV Telugu
+http://103.51.21.134/app/ts_live_3087.m3u8
+#EXTINF:-1 tvg-name="SACH BEDHADAK" tvg-logo="" group-title="HINDI NEWS",SACH BEDHADAK
+http://10.40.255.243/app/dplay.php?&cid=3085&id=Sach_Bedhadak_MOB-audio_98834_hin=98800-video=1680400.m3u8
+#EXTINF:-1  tvg-name="Taiwan Plus" tvg-logo="" group-title="LIFESTYLE",Taiwan Plus
+http://103.51.21.134/app/ts_live_3084.m3u8
+#EXTINF:-1 tvg-name="Sundarami TV" tvg-logo="" group-title="HINDI ENTERTAINMENT",Sundarami TV
+http://103.51.21.134/app/ts_live_3083.m3u8
+#EXTINF:-1  tvg-name="India Prime Regional News" tvg-logo="" group-title="HINDI NEWS",India Prime Regional News
+http://10.40.255.243/app/dplay.php?&cid=3076&id=India_Prime_News_MOB-audio_98835_eng=98800-video=2293600.m3u8
+#EXTINF:-1  tvg-name="Shemaroo Bollywood" tvg-logo="" group-title="HINDI MOVIES",Shemaroo Bollywood
+http://103.51.21.134/app/ts_live_3075.m3u8
+#EXTINF:-1 tvg-name="Shemaroo Filmy Gaane" tvg-logo="" group-title="MUSIC",Shemaroo Filmy Gaane
+http://103.51.21.134/app/ts_live_3074.m3u8
+#EXTINF:-1 tvg-name="Shree Jagannath TV" tvg-logo="" group-title="ODIA",Shree Jagannath TV
+http://103.51.21.134/app/ts_live_3072.m3u8
+#EXTINF:-1 tvg-name="TV Asia Powered by Shemaroo" tvg-logo="" group-title="HINDI ENTERTAINMENT",TV Asia Powered by Shemaroo
+http://103.51.21.134/app/ts_live_3071.m3u8
+#EXTINF:-1  tvg-name="Vistaar Regional News" tvg-logo="" group-title="HINDI NEWS",Vistaar Regional News
+http://10.40.255.243/app/dplay.php?&cid=3070&id=Vistaar_News_MOB-audio_98834_tam=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="Today 24 Regional News UPUK" tvg-logo="" group-title="HINDI NEWS",Today 24 Regional News UPUK
+http://10.40.255.243/app/dplay.php?&cid=3066&id=Today_TV24_UPUK_MOB-audio_98836_eng=98800-video=2293600.m3u8
+#EXTINF:-1 tvg-name="Bharat Nation" tvg-logo="" group-title="HINDI NEWS",Bharat Nation
+http://10.40.255.243/app/dplay.php?&cid=3065&id=Bharat_Nation_MOB-audio_98836_hin=98800-video=2293600.m3u8
+
+#EXTINF:-1 tvg-name="Haryana Tashan Music" tvg-logo="" group-title="MUSIC",Haryana Tashan Music
+http://103.51.21.134/app/ts_live_3062.m3u8
+#EXTINF:-1 tvg-name="Desi Tashan TV" tvg-logo="" group-title="MUSIC",Desi Tashan TV
+http://103.51.21.134/app/ts_live_3061.m3u8
+
+#EXTINF:-1 tvg-name="Thanthi One" tvg-logo="" group-title="TAMILI",Thanthi One
+http://103.51.21.134/app/ts_live_3059.m3u8
+#EXTINF:-1 tvg-name="Regional News CapitalGujarat" tvg-logo="" group-title="GUJRATI",Regional News CapitalGujarat
+http://103.51.21.134/app/ts_live_3058.m3u8
+
+
+#EXTINF:-1 tvg-name="TNP Regional News " tvg-logo="" group-title="HINDI NEWS",TNP Regional News 
+http://103.51.21.134/app/ts_live_3053.m3u8
+
+#EXTINF:-1  tvg-name="India Regional News" tvg-logo="" group-title="Regional News",India Regional News
+http://103.51.21.134/app/ts_live_3050.m3u8
+#EXTINF:-1 tvg-name="TNI Awaaz" tvg-logo="" group-title="OTHERS",TNI Awaaz
+http://103.51.21.134/app/ts_live_3049.m3u8
+#EXTINF:-1 tvg-name="BVG" tvg-logo="" group-title="LIFESTYLE",BVG
+http://103.51.21.134/app/ts_live_3048.m3u8
+#EXTINF:-1 tvg-name="Tamil Janam" tvg-logo="" group-title="TAMILI",Tamil Janam
+http://103.51.21.134/app/ts_live_3045.m3u8
+
+#EXTINF:-1 tvg-name="Prime Asia HD" tvg-logo="" group-title="PUNJABI",Prime Asia HD
+http://103.51.21.134/app/ts_live_3043.m3u8
+#EXTINF:-1  tvg-name="Regional News 24x7" tvg-logo="" group-title="HINDI NEWS",Regional News 24x7
+http://103.51.21.134/app/ts_live_3042.m3u8
+#EXTINF:-1 tvg-name="Bharat TV24" tvg-logo="" group-title="HINDI NEWS",Bharat TV24
+http://103.51.21.134/app/ts_live_3041.m3u8
+#EXTINF:-1  tvg-name="Garvi Gujarat" tvg-logo="" group-title="GUJRATI",Garvi Gujarat
+http://103.51.21.134/app/ts_live_3039.m3u8
+#EXTINF:-1 tvg-name="Amritwani TV" tvg-logo="" group-title="DEVOTIONAL",Amritwani TV
+http://103.51.21.134/app/ts_live_3038.m3u8
+  
+#EXTINF:-1 tvg-name="ZEE Telugu Regional News" tvg-logo="" group-title="TELUGU",ZEE Telugu Regional News
+http://103.51.21.134/app/ts_live_3031.m3u8
+#EXTINF:-1 tvg-name="ZEE Telugu" tvg-logo="" group-title="TELUGU",ZEE Telugu
+http://172.172.171.2/hls/modn/list/8102/playlist.m3u8
+#EXTINF:-1 tvg-name="Bollywood Masala" tvg-logo="" group-title="HINDI MOVIES",Bollywood Masala
+http://103.51.21.134/app/ts_live_3029.m3u8
+#EXTINF:-1 tvg-name="The India Music Awards" tvg-logo="" group-title="MUSIC",The India Music Awards
+http://103.51.21.134/app/ts_live_3028.m3u8
+#EXTINF:-1 tvg-name="India TV Speed Regional News" tvg-logo="" group-title="HINDI NEWS",India TV Speed Regional News 
+http://103.51.21.134/app/ts_live_3026.m3u8
+#EXTINF:-1 tvg-name="India TV Aap Ki Adalat" tvg-logo="" group-title="HINDI NEWS",India TV Aap Ki Adalat
+http://103.51.21.134/app/ts_live_3025.m3u8
+#EXTINF:-1 tvg-name="Inida TV Yoga Channel" tvg-logo="" group-title="LIFESTYLE",Inida TV Yoga Channel
+http://103.51.21.134/app/ts_live_3024.m3u8
+#EXTINF:-1 tvg-name="Janadesh Regional News" tvg-logo="" group-title="HINDI NEWS",Janadesh Regional News
+http://103.51.21.134/app/ts_live_3023.m3u8
+#EXTINF:-1 tvg-name="Unique TV" tvg-logo="" group-title="HINDI ENTERTAINMENT",Unique TV
+http://103.51.21.134/app/ts_live_3022.m3u8
+#EXTINF:-1 tvg-name="RC Studio" tvg-logo="" group-title="MUSIC",RC Studio
+http://103.51.21.134/app/ts_live_3021.m3u8
+#EXTINF:-1 tvg-name="Bangla Jago" tvg-logo="" group-title="BENGALI",Bangla Jago
+http://103.51.21.134/app/ts_live_3019.m3u8
+#EXTINF:-1 tvg-name="Regional News 360" tvg-logo="" group-title="TELUGU",Regional News 360
+http://103.51.21.134/app/ts_live_3018.m3u8
+#EXTINF:-1 tvg-name="TNI24" tvg-logo="" group-title="HINDI NEWS",TNI24
+http://10.40.255.243/app/dplay.php?&cid=3016&id=TNI24_MOB-audio_98834_hin=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="IPN Regional News" tvg-logo="" group-title="HINDI NEWS",IPN Regional News
+http://10.40.255.243/app/dplay.php?&cid=3014&id=IPN_News_MOB-audio_98834_hin=98800-video=2293600.m3u8
+
+
+#EXTINF:-1 tvg-name="Maya Tv" tvg-logo="" group-title="BENGALI",Maya Tv
+http://103.51.21.134/app/ts_live_3008.m3u8
+#EXTINF:-1 tvg-name="Dhoom Music Bangla" tvg-logo="" group-title="BENGALI",Dhoom Music BanglaV
+http://103.51.21.134/app/ts_live_3006.m3u8
+#EXTINF:-1 tvg-name="Rupashi Bangla" tvg-logo="" group-title="BENGALI",Rupashi Bangla
+http://103.51.21.134/app/ts_live_3005.m3u8
+#EXTINF:-1 tvg-name="Velicham Tv" tvg-logo="" group-title="TAMILI",Velicham Tv
+http://103.51.21.134/app/ts_live_3004.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Tamilan Television" tvg-logo="" group-title="TAMILI",Tamilan Television
+http://103.51.21.134/app/ts_live_2958.m3u8
+#EXTINF:-1 tvg-name="Public First" tvg-logo="" group-title="OTHERS",Public First
+http://103.51.21.134/app/ts_live_2957.m3u8
+
+#EXTINF:-1 tvg-name="Jeewan Bhakti" tvg-logo="" group-title="DEVOTIONAL",Jeewan Bhakti
+http://103.51.21.134/app/ts_live_2947.m3u8
+
+#EXTINF:-1 tvg-name="Haryana Buzz" tvg-logo="" group-title="OTHERS",Haryana Buzz
+http://103.51.21.134/app/ts_live_2938.m3u8
+
+#EXTINF:-1 tvg-name="Oye Music" tvg-logo="" group-title="MUSIC",Oye Music
+http://103.51.21.134/app/ts_live_2936.m3u8
+#EXTINF:-1 tvg-name="Pudhari Regional News" tvg-logo="" group-title="MARATHI",Pudhari Regional News
+http://103.51.21.134/app/ts_live_2935.m3u8
+#EXTINF:-1 tvg-name="Panjabi Hits" tvg-logo="" group-title="PUNJABI",Panjabi Hits
+http://103.51.21.134/app/ts_live_2934.m3u8
+#EXTINF:-1 tvg-name="NK TV Bangla" tvg-logo="" group-title="BENGALI",NK TV Bangla
+http://103.51.21.134/app/ts_live_2933.m3u8
+#EXTINF:-1 tvg-name="99 TV" tvg-logo="" group-title="TELUGU",99 TV
+http://103.51.21.134/app/ts_live_2932.m3u8
+#EXTINF:-1 tvg-name="WPN World Punjabi Regional News" tvg-logo="" group-title="PUNJABI",WPN World Punjabi Regional News
+http://103.51.21.134/app/ts_live_2918.m3u8
+#EXTINF:-1 tvg-name="Sadhna Gold" tvg-logo="" group-title="DEVOTIONAL",Sadhna Gold
+http://103.51.21.134/app/ts_live_2917.m3u8
+#EXTINF:-1 tvg-name="Daily Post PHH" tvg-logo="" group-title="PUNJABI",Daily Post PHH
+http://103.51.21.134/app/ts_live_2916.m3u8
+#EXTINF:-1 tvg-name="BHI Channel" tvg-logo="" group-title="BENGALI",BHI Channel
+http://103.51.21.134/app/ts_live_2914.m3u8
+#EXTINF:-1 tvg-name="Mahaa Regional News" tvg-logo="" group-title="TELUGU",Mahaa Regional News
+http://103.51.21.134/app/ts_live_2862.m3u8
+
+#EXTINF:-1tvg-name=" KCM" tvg-logo="" group-title="ENGLISH MOVIES", KCM
+http://103.51.21.134/app/ts_live_2854.m3u8
+
+
+
+#EXTINF:-1 tvg-name="ISKCON Bangalore" tvg-logo="" group-title="DEVOTIONAL",ISKCON Bangalore
+http://103.51.21.134/app/ts_live_2784.m3u8
+#EXTINF:-1 tvg-name="Big TV" tvg-logo="" group-title="TELUGU",Big TV
+http://103.51.21.134/app/ts_live_2783.m3u8
+#EXTINF:-1 tvg-name="ABC Australia" tvg-logo="" group-title="LIFESTYLE",ABC Australia
+http://103.51.21.134/app/ts_live_2782.m3u8
+
+#EXTINF:-1 tvg-name=" R Bangla" tvg-logo="" group-title="BENGALI", R Bangla
+http://103.51.21.134/app/ts_live_2780.m3u8
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="" group-title="SPORTS",Red Bull TV
+http://103.51.21.134/app/ts_live_2779.m3u8
+#EXTINF:-1 tvg-name="Tabbar Hits" tvg-logo="" group-title="MUSIC",Tabbar Hits
+http://103.51.21.134/app/ts_live_2778.m3u8
+#EXTINF:-1 tvg-name="Asian Regional News" tvg-logo="" group-title="HINDI NEWS",Asian Regional News 
+http://10.40.255.243/app/dplay.php?&cid=2777&id=Asian_News_MOB-audio_98834_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="Grace TV" tvg-logo="" group-title="GEO INFOTAINMENT",Grace TV
+http://103.51.21.134/app/ts_live_2775.m3u8
+
+#EXTINF:-1  tvg-name="Aaj Ki Khabar" tvg-logo="" group-title="HINDI NEWS",Aaj Ki Khabar
+http://10.40.255.243/app/dplay.php?&cid=2773&id=Aaj_Ki_Khabar_MOB-audio_98834_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="India Daily Live" tvg-logo="" group-title="HINDI NEWS",India Daily Live
+http://10.40.255.243/app/dplay.php?&cid=2772&id=India_Daily_24x7_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="sadhna Regional News MP cG" tvg-logo="" group-title="HINDI NEWS",sadhna Regional News MP cG
+http://10.40.255.243/app/dplay.php?&cid=2771&id=Sadhna_News_MP_CG_MOB-audio_98834_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="Har Khabar" tvg-logo="" group-title="HINDI NEWS",Har Khabar
+http://10.40.255.243/app/dplay.php?&cid=2770&id=Har_Khabar_MOB-audio_98834_und=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="Jothi TV" tvg-logo="" group-title="TAMILI",Jothi TV
+http://103.51.21.134/app/ts_live_2768.m3u8
+#EXTINF:-1 tvg-name="Sacchi Report" tvg-logo="" group-title="HINDI NEWS",Sacchi Report
+http://10.40.255.243/app/dplay.php?&cid=2767&id=Sacchi_Report_MOB-audio_98835_tam=98800-video=2293600.m3u8
+#EXTINF:-1 tvg-name="BRAVE TV" tvg-logo="" group-title="SPORTS",BRAVE TV
+http://103.51.21.134/app/ts_live_2766.m3u8
+
+#EXTINF:-1 tvg-name="Regional News State Bihar Jharkhand" tvg-logo="" group-title="HINDI NEWS",Regional News State Bihar Jharkhand
+http://10.40.255.243/app/dplay.php?&cid=2764&id=NewsState_Bihar_JH_MOB-audio_98834_eng=98800-video=1680400.m3u8
+
+#EXTINF:-1 tvg-name="DD North East" tvg-logo="" group-title="DD",DD North East
+http://103.51.21.134/app/ts_live_2759.m3u8
+#EXTINF:-1 tvg-name="YRF Music" tvg-logo="" group-title="MUSIC",YRF Music
+http://103.51.21.134/app/ts_live_2753.m3u8
+#EXTINF:-1 tvg-name="Ghaint Punjab" tvg-logo="" group-title="PUNJABI",Ghaint Punjab
+http://103.51.21.134/app/ts_live_2752.m3u8
+#EXTINF:-1 tvg-name="saga Music Haryanvi" tvg-logo="" group-title="MUSIC",saga Music Haryanvi
+http://103.51.21.134/app/ts_live_2751.m3u8
+#EXTINF:-1 tvg-name="Saga Music " tvg-logo="" group-title="MUSIC",Saga Music 
+http://103.51.21.134/app/ts_live_2750.m3u8
+#EXTINF:-1 tvg-name="Saregama Telugu" tvg-logo="" group-title="TELUGU",Saregama Telugu
+http://103.51.21.134/app/ts_live_2745.m3u8
+#EXTINF:-1 tvg-name="Power TV" tvg-logo="" group-title="KANNADA",Power TV
+http://103.51.21.134/app/ts_live_2743.m3u8
+#EXTINF:-1 tvg-name="ZEE Kannada Regional News" tvg-logo="" group-title="KANNADA",ZEE Kannada Regional News
+http://103.51.21.134/app/ts_live_2742.m3u8
+#EXTINF:-1 tvg-name="Samachar Plus" tvg-logo="" group-title="HINDI NEWS",Samachar Plus
+http://10.40.255.243/app/dplay.php?&cid=804&id=Samachar_Plus_MOB-audio_98834_hin=98800-video=1680400.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Wild Earth" tvg-logo="" group-title="GEO INFOTAINMENT",Wild Earth
+http://103.51.21.134/app/ts_live_2437.m3u8
+#EXTINF:-1 tvg-name="Prime 9 Regional News" tvg-logo="" group-title="TELUGU",Prime 9 Regional News
+http://103.51.21.134/app/ts_live_2436.m3u8
+#EXTINF:-1 tvg-name="Spondon" tvg-logo="" group-title="BENGALI",Spondon
+http://103.51.21.134/app/ts_live_2435.m3u8
+#EXTINF:-1 tvg-name="M Nadu" tvg-logo="" group-title="MALAYALAM",M Nadu
+http://103.51.21.134/app/ts_live_2434.m3u8
+#EXTINF:-1 tvg-name="E Regional News79" tvg-logo="" group-title="ODIA",E Regional News79
+http://103.51.21.134/app/ts_live_2433.m3u8
+#EXTINF:-1 tvg-name="Sun Marathi" tvg-logo="" group-title="MARATHI",Sun Marathi
+http://103.51.21.134/app/ts_live_2424.m3u8
+
+#EXTINF:-1 tvg-name="One Paschima" tvg-logo="" group-title="ODIA",One Paschima
+http://103.51.21.134/app/ts_live_2355.m3u8
+
+#EXTINF:-1 tvg-name="Bharat Express" tvg-logo="" group-title="HINDI NEWS",Bharat Express
+http://10.40.255.243/app/dplay.php?&cid=2353&id=Bharat_Express_MOB-audio_98834_eng=98800-video=658800.m3u8
+#EXTINF:-1 tvg-name="Narikaa" tvg-logo="" group-title="LIFESTYLE",Narikaa
+http://103.51.21.134/app/ts_live_2352.m3u8
+#EXTINF:-1 tvg-name="SRS Bhakti TV" tvg-logo="" group-title="DEVOTIONAL",SRS Bhakti TV
+http://103.51.21.134/app/ts_live_2351.m3u8
+
+#EXTINF:-1 tvg-name="Firstpost" tvg-logo="" group-title="SPORTS",Firstpost
+http://103.51.21.134/app/ts_live_2326.m3u8
+#EXTINF:-1 tvg-name="Punjabi Melodies" tvg-logo="" group-title="PUNJABI",Punjabi Melodies
+http://103.51.21.134/app/ts_live_2325.m3u8
+
+#EXTINF:-1 tvg-name="Divyalok TV" tvg-logo="" group-title="DEVOTIONAL",Divyalok TV
+http://103.51.21.134/app/ts_live_2322.m3u8
+#EXTINF:-1 tvg-name="Animax" tvg-logo="" group-title="CARTOON & KIDS",Animax
+http://103.51.21.134/app/ts_live_2258.m3u8
+
+#EXTINF:-1 tvg-name="Nakshatra Digital TV" tvg-logo="" group-title="TAMILI",Nakshatra Digital TV
+http://103.51.21.134/app/ts_live_2253.m3u8
+#EXTINF:-1tvg-name=" Desi Music Station" tvg-logo="" group-title="MUSIC", Desi Music Station
+http://103.51.21.134/app/ts_live_2252.m3u8
+#EXTINF:-1 tvg-name="Regional News 80" tvg-logo="" group-title="HINDI NEWS",Regional News 80
+http://103.51.21.134/app/ts_live_2233.m3u8
+#EXTINF:-1 tvg-name="Jio Specials HD" tvg-logo="" group-title="LIFESTYLE",Jio Specials HD
+http://103.51.21.134/app/ts_live_2230.m3u8
+#EXTINF:-1 tvg-name="Samay Kolkata" tvg-logo="" group-title="BENGALI",Samay Kolkata
+http://103.51.21.134/app/ts_live_2228.m3u8
+#EXTINF:-1 tvg-name="Jatra Ekamra" tvg-logo="" group-title="ODIA",Jatra Ekamra
+http://103.51.21.134/app/ts_live_2227.m3u8
+#EXTINF:-1 tvg-name="TV24" tvg-logo="" group-title="HINDI NEWS",TV24
+http://10.40.255.243/app/dplay.php?&cid=3353&id=NE_Bharat24_MOB-audio_108035_Asm=108000-video=2297600.m3u8
+#EXTINF:-1 tvg-name="India Regional News Punjab" tvg-logo="" group-title="PUNJABI",India Regional News Punjab
+http://103.51.21.134/app/ts_live_2224.m3u8
+
+
+#EXTINF:-1 tvg-name="Globe TV" tvg-logo="" group-title="BENGALI",Globe TV
+http://103.51.21.134/app/ts_live_2188.m3u8
+#EXTINF:-1 tvg-name="Swatantra Regional News" tvg-logo="" group-title="HINDI NEWS",Swatantra Regional News
+http://103.51.21.134/app/ts_live_2187.m3u8
+#EXTINF:-1 tvg-name="U Bangla" tvg-logo="" group-title="BENGALI",U Bangla
+http://103.51.21.134/app/ts_live_2184.m3u8
+
+#EXTINF:-1 tvg-name="Arya Sandesh TV" tvg-logo="" group-title="DEVOTIONAL",Arya Sandesh TV
+http://103.51.21.134/app/ts_live_2177.m3u8
+http://10.40.255.243/app/dplay.php?&cid=2772&id=India_Daily_24x7_MOB-audio_98835_eng=98800-video=1680400.m3u8
+
+#EXTINF:-1 tvg-name=" TV27 Regional News" tvg-logo="" group-title="HINDI NEWS", TV27 Regional News
+http://10.40.255.243/app/dplay.php?&cid=2081&id=TV27_News_MOB-audio_98836_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="Bharat 24" tvg-logo="" group-title="HINDI NEWS",Bharat 24
+http://10.40.255.243/app/dplay.php?&cid=2079&id=Bharat_24_MOB-audio_98834_hin=98800-video=2293600.m3u8up-title="HINDI ENTERTAINMENT",Shemaroo Umang
+#EXTINF:-1 tvg-name="Saregama Music" tvg-logo="" group-title="MUSIC",Saregama Music
+http://103.51.21.134/app/ts_live_2065.m3u8
+#EXTINF:-1 tvg-name="Merchant Records" tvg-logo="" group-title="MUSIC",Merchant Records
+http://103.51.21.134/app/ts_live_2064.m3u8
+#EXTINF:-1 tvg-name="RS Bharat" tvg-logo="" group-title="LIFESTYLE",RS Bharat
+http://103.51.21.134/app/ts_live_2063.m3u8
+#EXTINF:-1 tvg-name="Auroville TV" tvg-logo="" group-title="LIFESTYLE",Auroville TV
+http://103.51.21.134/app/ts_live_2045.m3u8
+#EXTINF:-1 tvg-name="Artist Aloud" tvg-logo="" group-title="MUSIC",Artist Aloud
+http://103.51.21.134/app/ts_live_2043.m3u8
+
+#EXTINF:-1 tvg-name="Bhakti Sagar" tvg-logo="" group-title="DEVOTIONAL",Bhakti Sagar
+http://103.51.21.134/app/ts_live_2041.m3u8
+#EXTINF:-1 tvg-name="Bollywood Hungama" tvg-logo="" group-title="HINDI ENTERTAINMENT",Bollywood Hungama
+http://103.51.21.134/app/ts_live_2040.m3u8
+
+
+#EXTINF:-1 tvg-name="Dil Se" tvg-logo="" group-title="MUSIC",Dil Se
+http://103.51.21.134/app/ts_live_2036.m3u8
+#EXTINF:-1 tvg-name="Amritwani" tvg-logo="" group-title="DEVOTIONAL",Amritwani
+http://103.51.21.134/app/ts_live_2035.m3u8
+#EXTINF:-1 tvg-name="NSDC TV" tvg-logo="" group-title="LIFESTYLE",NSDC TV
+http://103.51.21.134/app/ts_live_2034.m3u8
+#EXTINF:-1 tvg-name="Fashion India" tvg-logo="" group-title="LIFESTYLE",Fashion India
+http://103.51.21.134/app/ts_live_2031.m3u8
+
+
+#EXTINF:-1 tvg-name="Sadvidya Tv" tvg-logo="" group-title="DEVOTIONAL",Sadvidya Tv
+http://103.51.21.134/app/ts_live_2028.m3u8
+#EXTINF:-1 tvg-name="NB Regional News" tvg-logo="" group-title="BENGALI",NB Regional News
+http://103.51.21.134/app/ts_live_2022.m3u8
+#EXTINF:-1 tvg-name="HNN 24x7" tvg-logo="" group-title="HINDI NEWS",HNN 24x7
+http://10.40.255.243/app/dplay.php?&cid=2021&id=HNN24x7_MOB-audio_98834_tam=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="Global Punjab" tvg-logo="" group-title="PUNJABI",Global Punjab
+http://103.51.21.134/app/ts_live_2019.m3u8
+#EXTINF:-1 tvg-name="Munsif TV" tvg-logo="" group-title="OTHERS",Munsif TV
+http://103.51.21.134/app/ts_live_2017.m3u8
+#EXTINF:-1 tvg-name="Ekamra Cinema" tvg-logo="" group-title="ODIA",Ekamra Cinema
+http://103.51.21.134/app/ts_live_2016.m3u8
+#EXTINF:-1 tvg-name="Ekamra Musiq" tvg-logo="" group-title="ODIA",Ekamra Musiq
+http://103.51.21.134/app/ts_live_2015.m3u8
+
+#EXTINF:-1 tvg-name="Paramatma" tvg-logo="" group-title="ODIA",Paramatma
+http://103.51.21.134/app/ts_live_2012.m3u8
+#EXTINF:-1 tvg-name="Ekamra Bharat Odia" tvg-logo="" group-title="ODIA",Ekamra Bharat Odia
+http://103.51.21.134/app/ts_live_2011.m3u8
+#EXTINF:-1 tvg-name="Ekamra Nilch akra" tvg-logo="" group-title="ODIA",Ekamra Nilch akra
+http://103.51.21.134/app/ts_live_2010.m3u8
+#EXTINF:-1 tvg-name="Regional News 21" tvg-logo="" group-title="HINDI NEWS",Regional News 21
+http://103.51.21.134/app/ts_live_2008.m3u8
+#EXTINF:-1 tvg-name="IN 24 Regional News" tvg-logo="" group-title="HINDI NEWS",IN 24 Regional News
+http://103.51.21.134/app/ts_live_2005.m3u8
+#EXTINF:-1 tvg-name="Shekinah TV" tvg-logo="" group-title="TAMILI",Shekinah TV
+http://103.51.21.134/app/ts_live_2004.m3u8
+
+#EXTINF:-1 tvg-name="Aadinath TV" tvg-logo="" group-title="DEVOTIONAL",Aadinath TV
+http://103.51.21.134/app/ts_live_2002.m3u8
+#EXTINF:-1 tvg-name="Raftaar Media" tvg-logo="" group-title="HINDI NEWS",Raftaar Media
+http://103.51.21.134/app/ts_live_1999.m3u8
+#EXTINF:-1 tvg-name="Sports18 1" tvg-logo="" group-title="SPORTS",Sports18 1
+http://103.51.21.134/app/ts_live_1985.m3u8
+#EXTINF:-1 tvg-name="Sports18 1 HD" tvg-logo="" group-title="SPORTS",Sports18 1 HD
+http://103.51.21.134/app/ts_live_1984.m3u8
+#EXTINF:-1 tvg-name="PMC Telugu" tvg-logo="" group-title="TELUGU",PMC Telugu
+http://103.51.21.134/app/ts_live_1975.m3u8
+#EXTINF:-1 tvg-name="Gujarat 1st 24x7" tvg-logo="" group-title="GUJRATI",Gujarat 1st 24x7
+http://103.51.21.134/app/ts_live_1974.m3u8
+
+#EXTINF:-1 tvg-name="Top Regional News Marathi" tvg-logo="" group-title="MARATHI",Top Regional News Marathi
+http://103.51.21.134/app/ts_live_1972.m3u8
+#EXTINF:-1 tvg-name="PMC Hindi" tvg-logo="" group-title="LIFESTYLE",PMC Hindi
+http://103.51.21.134/app/ts_live_1967.m3u8
+
+#EXTINF:-1 tvg-name="VNM TV" tvg-logo="" group-title="OTHERS",VNM TV
+http://103.51.21.134/app/ts_live_1965.m3u8
+#EXTINF:-1 tvg-name="ABC Regional News" tvg-logo="" group-title="HINDI NEWS",ABC Regional News
+http://103.51.21.134/app/ts_live_1964.m3u8
+
+
+#EXTINF:-1 tvg-name="Shemaroo TV" tvg-logo="" group-title="HINDI ENTERTAINMENT",Shemaroo TV
+http://103.51.21.134/app/ts_live_1961.m3u8
+#EXTINF:-1 tvg-name="Global India" tvg-logo="" group-title="HINDI NEWS",Global India
+http://103.51.21.134/app/ts_live_1959.m3u8
+#EXTINF:-1 tvg-name="Sidharth Bhakti" tvg-logo="" group-title="ODIA",Sidharth Bhakti
+http://103.51.21.134/app/ts_live_1958.m3u8
+#EXTINF:-1 tvg-name="Sidharth Gold" tvg-logo="" group-title="ODIA",Sidharth Gold
+http://103.51.21.134/app/ts_live_1957.m3u8
+#EXTINF:-1 tvg-name="Sidharth TV" tvg-logo="" group-title="ODIA",Sidharth TV
+http://103.51.21.134/app/ts_live_1956.m3u8
+#EXTINF:-1 tvg-name="Foodxp" tvg-logo="" group-title="LIFESTYLE",Foodxp
+http://103.51.21.134/app/ts_live_1955.m3u8
+#EXTINF:-1 tvg-name="Regional News Tamil 24x7" tvg-logo="" group-title="TAMILI",Regional News Tamil 24x7 
+http://103.51.21.134/app/ts_live_1954.m3u8
+#EXTINF:-1 tvg-name="Shri Trimbakeshwar Devasthan Trust" tvg-logo="" group-title="DEVOTIONAL",Shri Trimbakeshwar Devasthan Trust
+http://103.51.21.134/app/ts_live_1933.m3u8
+#EXTINF:-1 tvg-name="Sanskriti 27x7" tvg-logo="" group-title="DEVOTIONAL",Sanskriti 27x7
+http://103.51.21.134/app/ts_live_1926.m3u8
+#EXTINF:-1tvg-name=" MH1 Dil se" tvg-logo="" group-title="HINDI ENTERTAINMENT", MH1 Dil se
+http://103.51.21.134/app/ts_live_1925.m3u8
+#EXTINF:-1 tvg-name="The Q Kahaniyan" tvg-logo="" group-title="CARTOON & KIDS",The Q Kahaniyan
+http://103.51.21.134/app/ts_live_1920.m3u8
+#EXTINF:-1 tvg-name="ET Now Swadesh" tvg-logo="" group-title="BUSINESS NEWS",ET Now Swadesh
+http://103.51.21.134/app/ts_live_1907.m3u8
+#EXTINF:-1 tvg-name="Times Now Navbharat" tvg-logo="" group-title="BUSINESS NEWS",Times Now Navbharat
+http://10.40.255.243/app/dplay.php?&cid=1906&id=Times_Now_Navbharat_MOB-audio_98835_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-name="Adhyatam TV" tvg-logo="" group-title="DEVOTIONAL",Adhyatam TV
+http://103.51.21.134/app/ts_live_1901.m3u8
+#EXTINF:-1 tvg-name="Express Regional News Bharat" tvg-logo="" group-title="HINDI NEWS",Express Regional News Bharat
+http://103.51.21.134/app/ts_live_1900.m3u8
+
+#EXTINF:-1 tvg-name="Regional News Flash" tvg-logo="" group-title="HINDI NEWS",Regional News Flash
+http://103.51.21.134/app/ts_live_1896.m3u8
+#EXTINF:-1 tvg-name="Today 24 Regional News" tvg-logo="" group-title="HINDI NEWS",Today 24 Regional News
+http://103.51.21.134/app/ts_live_1895.m3u8
+#EXTINF:-1 tvg-name="Tribe TV" tvg-logo="" group-title="BENGALI",Tribe TV
+http://103.51.21.134/app/ts_live_1891.m3u8
+#EXTINF:-1  tvg-name="Sansad TV Rajya Sabha" tvg-logo="" group-title="HINDI NEWS",Sansad TV Rajya Sabha
+http://103.51.21.134/app/ts_live_1886.m3u8
+#EXTINF:-1 tvg-name="Kripa TV" tvg-logo="" group-title="DEVOTIONAL",Kripa TV
+http://103.51.21.134/app/ts_live_1885.m3u8
+#EXTINF:-1 tvg-name="Pogo Telugu" tvg-logo="" group-title="TELUGU",Pogo Telugu
+http://103.51.21.134/app/ts_live_1883.m3u8
+#EXTINF:-1 tvg-name="7x Music" tvg-logo="" group-title="MUSIC",7x Music
+http://103.51.21.134/app/ts_live_1871.m3u8
+#EXTINF:-1 tvg-name="Punjab Plus" tvg-logo="" group-title="PUNJABI",Punjab Plus
+http://103.51.21.134/app/ts_live_1868.m3u8
+#EXTINF:-1 tvg-name="SKBC4" tvg-logo="" group-title="DEVOTIONAL",SKBC4
+http://103.51.21.134/app/ts_live_1859.m3u8
+#EXTINF:-1 tvg-name="SVBC3" tvg-logo="" group-title="TELUGU",SVBC3
+http://103.51.21.134/app/ts_live_1858.m3u8
+#EXTINF:-1 tvg-name="Pratham Khabar 24x7" tvg-logo="" group-title="BENGALI",Pratham Khabar 24x7
+http://103.51.21.134/app/ts_live_1856.m3u8
+#EXTINF:-1 tvg-name="NL TV" tvg-logo="" group-title="ENGLISH NEWS",NL TV
+http://103.51.21.134/app/ts_live_1855.m3u8
+#EXTINF:-1 tvg-name="STV Haryana Regional News" tvg-logo="" group-title="HINDI NEWS",STV Haryana Regional News
+http://103.51.21.134/app/ts_live_1854.m3u8
+#EXTINF:-1  tvg-name="Regional News11 Bharat" tvg-logo="" group-title="HINDI NEWS",Regional News11 Bharat
+http://103.51.21.134/app/ts_live_1853.m3u8
+
+#EXTINF:-1 tvg-name="SVBC" tvg-logo="" group-title="TELUGU",SVBC
+http://103.51.21.134/app/ts_live_1850.m3u8
+#EXTINF:-1 tvg-name="Z10 TV" tvg-logo="" group-title="OTHERS",Z10 TV
+http://103.51.21.134/app/ts_live_1847.m3u8
+#EXTINF:-1 tvg-name="Green chillies" tvg-logo="" group-title="HINDI ENTERTAINMENT",Green chillies
+http://103.51.21.134/app/ts_live_1834.m3u8
+
+
+#EXTINF:-1 tvg-name="Regional News 24 MPCG" tvg-logo="" group-title="HINDI NEWS",Regional News 24 MPCG
+http://103.51.21.134/app/ts_live_1817.m3u8
+#EXTINF:-1 tvg-name="Jan Setu Regional News" tvg-logo="" group-title="HINDI NEWS",Jan Setu Regional News
+http://103.51.21.134/app/ts_live_1804.m3u8
+
+#EXTINF:-1 tvg-name="Studio Yuva Alpha" tvg-logo="" group-title="TELUGU",Studio Yuva Alpha
+http://103.51.21.134/app/ts_live_1799.m3u8
+#EXTINF:-1 tvg-name="Pasand" tvg-logo="" group-title="HINDI ENTERTAINMENT",Pasand
+http://103.51.21.134/app/ts_live_1798.m3u8
+#EXTINF:-1 tvg-name="DA Regional News Plus" tvg-logo="" group-title="HINDI NEWS",DA Regional News Plus
+http://103.51.21.134/app/ts_live_1797.m3u8
+
+
+#EXTINF:-1 tvg-name="VR Live" tvg-logo="" group-title="GUJRATI",VR Live
+http://103.51.21.134/app/ts_live_1790.m3u8
+
+#EXTINF:-1 tvg-name="HooplaKidz TV" tvg-logo="" group-title="CARTOON & KIDS",HooplaKidz TV
+http://103.51.21.134/app/ts_live_1780.m3u8
+
+
+#EXTINF:-1 tvg-name="colors Cineplex Bollywood" tvg-logo="" group-title="HINDI MOVIES",colors Cineplex Bollywood
+http://103.51.21.134/app/ts_live_1763.m3u8
+
+#EXTINF:-1 tvg-name="Aryan TV National" tvg-logo="" group-title="HINDI NEWS",Aryan TV National
+http://103.51.21.134/app/ts_live_1761.m3u8
+#EXTINF:-1 tvg-name="Buletin India" tvg-logo="" group-title="OTHERS",Buletin India
+http://103.51.21.134/app/ts_live_1759.m3u8
+
+#EXTINF:-1 tvg-name="NK TV Plus" tvg-logo="" group-title="BENGALI",NK TV Plus
+http://103.51.21.134/app/ts_live_1757.m3u8
+#EXTINF:-1 tvg-name="Surya Movies" tvg-logo="" group-title="KANNADA",Surya Movies
+http://103.51.21.134/app/ts_live_1754.m3u8
+#EXTINF:-1 tvg-name="Surya TV" tvg-logo="" group-title="KANNADA",Surya TV
+http://172.172.171.2/hls/modn/list/8032/playlist.m3u8
+#EXTINF:-1 tvg-name="UDAYA MOVIES" tvg-logo="" group-title="KANNADA",UDAYA MOVIES
+http://172.172.171.2/hls/modn/list/8031/playlist.m3u8
+#EXTINF:-1 tvg-name="UDAYA TV" tvg-logo="" group-title="KANNADA",UDAYA TV
+http://172.172.171.2/hls/modn/list/8030/playlist.m3u8
+#EXTINF:-1 tvg-name="India Regional News Gujarat" tvg-logo="" group-title="GUJRATI",India Regional News Gujarat
+http://103.51.21.134/app/ts_live_1747.m3u8
+#EXTINF:-1 tvg-name="Hornbill TV" tvg-logo="" group-title="OTHERS",Hornbill TV
+http://103.51.21.134/app/ts_live_1743.m3u8
+#EXTINF:-1 tvg-name="Bharat AtoZ" tvg-logo="" group-title="HINDI NEWS",Bharat AtoZ
+http://103.51.21.134/app/ts_live_1741.m3u8
+
+
+#EXTINF:-1 tvg-name="TV9 Bangla" tvg-logo="" group-title="BENGALI",TV9 Bangla
+http://103.51.21.134/app/ts_live_1735.m3u8
+
+#EXTINF:-1 tvg-name="ND 24" tvg-logo="" group-title="BENGALI",ND 24
+http://103.51.21.134/app/ts_live_1733.m3u8
+#EXTINF:-1 tvg-name="Anaadi TV" tvg-logo="" group-title="HINDI NEWS",Anaadi TV
+http://103.51.21.134/app/ts_live_1728.m3u8
+#EXTINF:-1 tvg-name="24Hrs TV" tvg-logo="" group-title="BENGALI",24Hrs TV
+http://103.51.21.134/app/ts_live_1725.m3u8
+
+#EXTINF:-1 tvg-name="Shri Mangal Dev Grah Temple" tvg-logo="" group-title="DEVOTIONAL",Shri Mangal Dev Grah Temple
+http://103.51.21.134/app/ts_live_1706.m3u8
+#EXTINF:-1 tvg-name="Shri Hingulambika Devi Temple" tvg-logo="" group-title="DEVOTIONAL",Shri Hingulambika Devi Temple
+http://103.51.21.134/app/ts_live_1705.m3u8
+#EXTINF:-1 tvg-name="ANN Regional News" tvg-logo="" group-title="OTHERS",ANN Regional News
+http://103.51.21.134/app/ts_live_1699.m3u8
+#EXTINF:-1 tvg-name="IND24" tvg-logo="" group-title="HINDI NEWS",IND24
+http://103.51.21.134/app/ts_live_1698.m3u8
+#EXTINF:-1 tvg-name="FM Regional News" tvg-logo="" group-title="HINDI NEWS",FM Regional News
+http://103.51.21.134/app/ts_live_1697.m3u8
+#EXTINF:-1 tvg-name="Prime TV" tvg-logo="" group-title="HINDI NEWS",Prime TV
+http://103.51.21.134/app/ts_live_1695.m3u8
+#EXTINF:-1 tvg-name="Haryana Beats" tvg-logo="" group-title="PUNJABI",Haryana Beats
+http://103.51.21.134/app/ts_live_1694.m3u8
+#EXTINF:-1 tvg-name="Badakhabar" tvg-logo="" group-title="ODIA",Badakhabar
+http://103.51.21.134/app/ts_live_1692.m3u8
+
+#EXTINF:-1 tvg-name="ESG TV" tvg-logo="" group-title="OTHERS",ESG TV
+http://103.51.21.134/app/ts_live_1675.m3u8
+#EXTINF:-1 tvg-name="ETD Chhattisgarh" tvg-logo="" group-title="OTHERS",ETD Chhattisgarh
+http://103.51.21.134/app/ts_live_1673.m3u8
+#EXTINF:-1 tvg-name="Gyanvani 2" tvg-logo="" group-title="OTHERS",Gyanvani 2
+http://103.51.21.134/app/ts_live_1672.m3u8
+#EXTINF:-1 tvg-name="C Regional News Bharat" tvg-logo="" group-title="HINDI NEWS",C Regional News Bharat
+http://103.51.21.134/app/ts_live_1670.m3u8
+#EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="" group-title="BENGALI",Sun Bangla
+http://103.51.21.134/app/ts_live_1669.m3u8
+#EXTINF:-1 tvg-name="Rongeen TV" tvg-logo="" group-title="BENGALI",Rongeen TV
+http://103.51.21.134/app/ts_live_1667.m3u8
+#EXTINF:-1 tvg-name="Safari TV" tvg-logo="" group-title="MALAYALAM",Safari TV
+http://103.51.21.134/app/ts_live_1666.m3u8
+
+#EXTINF:-1 tvg-name="Surya comedy" tvg-logo="" group-title="TAMILI",Surya comedy
+http://103.51.21.134/app/ts_live_1662.m3u8
+#EXTINF:-1  tvg-name="Colors Bangla Cinema" tvg-logo="" group-title="BENGALI",Colors Bangla Cinema
+http://103.51.21.134/app/ts_live_1657.m3u8
+#EXTINF:-1 tvg-name="Madha TV" tvg-logo="" group-title="TAMILI",Madha TV
+http://103.51.21.134/app/ts_live_1655.m3u8
+#EXTINF:-1 tvg-name="MK Six" tvg-logo="" group-title="TAMILI",MK Six
+http://103.51.21.134/app/ts_live_1647.m3u8
+#EXTINF:-1 tvg-name="Powervision TV" tvg-logo="" group-title="TAMILI",Powervision TV
+http://103.51.21.134/app/ts_live_1644.m3u8
+#EXTINF:-1 tvg-name="Harvest TV 24x7" tvg-logo="" group-title="TAMILI",Harvest TV 24x7
+http://103.51.21.134/app/ts_live_1643.m3u8
+#EXTINF:-1 tvg-name="Regional News State MPCG" tvg-logo="" group-title="HINDI NEWS",Regional News State MPCG
+http://103.51.21.134/app/ts_live_1635.m3u8
+#EXTINF:-1  tvg-name="Siri Kannada" tvg-logo="" group-title="KANNADA",Siri Kannada
+http://103.51.21.134/app/ts_live_1634.m3u8
+#EXTINF:-1 tvg-name="Public movies" tvg-logo="" group-title="OTHERS",Public movies
+http://103.51.21.134/app/ts_live_1633.m3u8
+#EXTINF:-1 tvg-name="Colors Kannada Cinema" tvg-logo="" group-title="KANNADA",Colors Kannada Cinema
+http://103.51.21.134/app/ts_live_1632.m3u8
+
+#EXTINF:-1 tvg-name="Real Regional News Kerala" tvg-logo="" group-title="TAMILI",Real Regional News Kerala
+http://103.51.21.134/app/ts_live_1618.m3u8
+#EXTINF:-1 tvg-name="Omnicuris" tvg-logo="" group-title="OTHERS",Omnicuris
+http://103.51.21.134/app/ts_live_1614.m3u8
+#EXTINF:-1 tvg-name="Medha Secondary" tvg-logo="" group-title="OTHERS",Medha Secondary
+http://103.51.21.134/app/ts_live_1613.m3u8
+#EXTINF:-1 tvg-name="Tara TV" tvg-logo="" group-title="BENGALI",Tara TV
+http://103.51.21.134/app/ts_live_1612.m3u8
+
+
+#EXTINF:-1 tvg-name="Manav Dharam" tvg-logo="" group-title="DEVOTIONAL",Manav Dharam
+http://103.51.21.134/app/ts_live_1607.m3u8
+#EXTINF:-1 tvg-name="Bangla Bhakti" tvg-logo="" group-title="BENGALI",Bangla Bhakti
+http://103.51.21.134/app/ts_live_1605.m3u8
+#EXTINF:-1 tvg-name="FTV HD" tvg-logo="" group-title="LIFESTYLE",FTV HD
+http://103.51.21.134/app/ts_live_1598.m3u8
+#EXTINF:-1 tvg-name="samachar 24" tvg-logo="" group-title="HINDI NEWS",samachar 24
+http://103.51.21.134/app/ts_live_1594.m3u8
+#EXTINF:-1 tvg-name="Lifology" tvg-logo="" group-title="LIFESTYLE",Lifology
+http://103.51.21.134/app/ts_live_1593.m3u8
+#EXTINF:-1 tvg-name="Sanskrit" tvg-logo="" group-title="OTHERS",Sanskrit
+http://103.51.21.134/app/ts_live_1590.m3u8
+#EXTINF:-1 tvg-name="Atmadarshan TV" tvg-logo="" group-title="DEVOTIONAL",Atmadarshan TV
+http://103.51.21.134/app/ts_live_1568.m3u8
+
+#EXTINF:-1 tvg-name="AP-BIE-ARTS" tvg-logo="" group-title="OTHERS",AP-BIE-ARTS
+http://103.51.21.134/app/ts_live_1566.m3u8
+#EXTINF:-1 tvg-name="Himshiksha Vocational" tvg-logo="" group-title="OTHERS",Himshiksha Vocational
+http://103.51.21.134/app/ts_live_1564.m3u8
+
+
+#EXTINF:-1 tvg-name="Sristi TV" tvg-logo="" group-title="BENGALI",Sristi TV
+http://103.51.21.134/app/ts_live_1561.m3u8
+#EXTINF:-1 tvg-name="35mm" tvg-logo="" group-title="DEVOTIONAL",35mm
+http://103.51.21.134/app/ts_live_1560.m3u8
+
+#EXTINF:-1 tvg-name="Regional News First" tvg-logo="" group-title="KANNADA",Regional News First
+http://103.51.21.134/app/ts_live_1555.m3u8
+#EXTINF:-1 tvg-name="Sanatan TV" tvg-logo="" group-title="DEVOTIONAL",Sanatan TV
+http://103.51.21.134/app/ts_live_1554.m3u8
+
+#EXTINF:-1 tvg-name="Malanadu TV" tvg-logo="" group-title="MALAYALAM",Malanadu TV
+http://103.51.21.134/app/ts_live_1552.m3u8
+#EXTINF:-1 tvg-name="P Regional News" tvg-logo="" group-title="HINDI NEWS",P Regional News
+http://103.51.21.134/app/ts_live_1551.m3u8
+#EXTINF:-1 tvg-name="AB Regional News" tvg-logo="" group-title="HINDI NEWS",AB Regional News
+http://103.51.21.134/app/ts_live_1550.m3u8
+#EXTINF:-1 tvg-name="Dharm Granth TV" tvg-logo="" group-title="DEVOTIONAL",Dharm Granth TV
+http://103.51.21.134/app/ts_live_1549.m3u8
+
+#EXTINF:-1 tvg-name="Subharti" tvg-logo="" group-title="HINDI ENTERTAINMENT",Subharti
+http://103.51.21.134/app/ts_live_1543.m3u8
+#EXTINF:-1 tvg-name="Tute" tvg-logo="" group-title="EDUCATIONAL",Tute
+http://103.51.21.134/app/ts_live_1542.m3u8
+#EXTINF:-1 tvg-name="Samachar Today" tvg-logo="" group-title="HINDI NEWS",Samachar Today
+http://103.51.21.134/app/ts_live_1538.m3u8
+#EXTINF:-1 tvg-name="RadheKrishna TV" tvg-logo="" group-title="DEVOTIONAL",RadheKrishna TV
+http://103.51.21.134/app/ts_live_1537.m3u8
+#EXTINF:-1 tvg-name="PM e Vidya 12" tvg-logo="" group-title="EDUCATIONAL",PM e Vidya 12
+http://103.51.21.134/app/ts_live_1532.m3u8
+#EXTINF:-1 tvg-name="Gyanvani 1" tvg-logo="" group-title="EDUCATIONAL",Gyanvani 1
+http://103.51.21.134/app/ts_live_1531.m3u8
+#EXTINF:-1 tvg-name="MI TV" tvg-logo="" group-title="SPORTS",MI TV
+http://103.51.21.134/app/ts_live_1529.m3u8
+#EXTINF:-1tvg-name=" Network 10" tvg-logo="" group-title="HINDI NEWS", Network 10
+http://103.51.21.134/app/ts_live_1528.m3u8
+
+#EXTINF:-1 tvg-name="TEST13 HD" tvg-logo="" group-title="MUSIC",TEST13 HD
+http://103.51.21.134/app/ts_live_1525.m3u8
+#EXTINF:-1 tvg-name="Birla Brainiacs" tvg-logo="" group-title="EDUCATIONAL",Birla Brainiacs
+http://103.51.21.134/app/ts_live_1521.m3u8
+#EXTINF:-1 tvg-name="Regional News J" tvg-logo="" group-title="TAMILI",Regional News J
+http://103.51.21.134/app/ts_live_1515.m3u8
+#EXTINF:-1 tvg-name="Kannur One" tvg-logo="" group-title="TAMILI",Kannur One
+http://103.51.21.134/app/ts_live_1514.m3u8
+#EXTINF:-1 tvg-name="Argus Regional News" tvg-logo="" group-title="ODIA",Argus Regional News
+http://103.51.21.134/app/ts_live_1481.m3u8
+#EXTINF:-1tvg-name=" Colors cineplex HD" tvg-logo="" group-title="HINDI MOVIES", Colors cineplex HD
+http://172.172.171.2/hls18/stream_24.m3u8
+#EXTINF:-1 tvg-name="History TV18 SD" tvg-logo="" group-title="GEO INFOTAINMENT",History TV18 SD
+http://103.51.21.134/app/ts_live_1471.m3u8
+#EXTINF:-1 tvg-name="Gurkibani" tvg-logo="" group-title="PUNJABI",Gurkibani
+http://103.51.21.134/app/ts_live_1458.m3u8
+#EXTINF:-1 tvg-name="Regional News only" tvg-logo="" group-title="PUNJABI",Regional News only
+http://103.51.21.134/app/ts_live_1457.m3u8
+#EXTINF:-1 tvg-name="Janapriyam" tvg-logo="" group-title="TAMILI",Janapriyam
+http://103.51.21.134/app/ts_live_1455.m3u8
+#EXTINF:-1 tvg-name="Shiksha TV" tvg-logo="" group-title="GUJRATI",Shiksha TV
+http://103.51.21.134/app/ts_live_1454.m3u8
+#EXTINF:-1 tvg-name="Balle Balle TV" tvg-logo="" group-title="MUSIC",Balle Balle TV
+http://103.51.21.134/app/ts_live_1453.m3u8
+#EXTINF:-1 tvg-name="Shemaroo MarathiBana" tvg-logo="" group-title="MARATHI",Shemaroo MarathiBana
+http://103.51.21.134/app/ts_live_1452.m3u8
+#EXTINF:-1 tvg-name="Colors Cineplex Superhit" tvg-logo="" group-title="HINDI MOVIES",Colors Cineplex Superhit
+http://172.172.171.2/hls18/stream_10.m3u8
+#EXTINF:-1 tvg-name="TV Teacher" tvg-logo="" group-title="EDUCATIONAL",TV Teacher
+http://103.51.21.134/app/ts_live_1447.m3u8
+#EXTINF:-1 tvg-name="Wah Punjabi" tvg-logo="" group-title="PUNJABI",Wah Punjabi
+http://103.51.21.134/app/ts_live_1441.m3u8
+#EXTINF:-1 tvg-name="Krishna Vani" tvg-logo="" group-title="DEVOTIONAL",Krishna Vani
+http://103.51.21.134/app/ts_live_1440.m3u8
+
+#EXTINF:-1 tvg-name="India Science" tvg-logo="" group-title="GEO INFOTAINMENT",India Science
+http://103.51.21.134/app/ts_live_1433.m3u8
+#EXTINF:-1 tvg-name="Time8" tvg-logo="" group-title="BENGALI",Time8
+http://103.51.21.134/app/ts_live_1432.m3u8
+
+#EXTINF:-1 tvg-name="Gyan Brikshya" tvg-logo="" group-title="EDUCATIONAL",Gyan Brikshya
+http://103.51.21.134/app/ts_live_1428.m3u8
+#EXTINF:-1 tvg-name="Nandighosha" tvg-logo="" group-title="ODIA",Nandighosha
+http://103.51.21.134/app/ts_live_1427.m3u8
+#EXTINF:-1 tvg-name="Santvani" tvg-logo="" group-title="DEVOTIONAL",Santvani
+http://103.51.21.134/app/ts_live_1426.m3u8
+#EXTINF:-1 tvg-name="Mumbadevi Mumbai" tvg-logo="" group-title="DEVOTIONAL",Mumbadevi Mumbai
+http://103.51.21.134/app/ts_live_1424.m3u8
+#EXTINF:-1 tvg-name="Babulnaath Mumbai" tvg-logo="" group-title="DEVOTIONAL",Babulnaath Mumbai
+http://103.51.21.134/app/ts_live_1423.m3u8
+#EXTINF:-1 tvg-name="Mahalaxmi Mumbai" tvg-logo="" group-title="DEVOTIONAL",Mahalaxmi Mumbai
+http://103.51.21.134/app/ts_live_1422.m3u8
+#EXTINF:-1 tvg-name="Karani Mata Rajasthan" tvg-logo="" group-title="DEVOTIONAL",Karani Mata Rajasthan
+http://103.51.21.134/app/ts_live_1421.m3u8
+#EXTINF:-1 tvg-name="Ashtvinayak Rajnandgaon" tvg-logo="" group-title="DEVOTIONAL",Ashtvinayak Rajnandgaon
+http://103.51.21.134/app/ts_live_1420.m3u8
+
+#EXTINF:-1 tvg-name="SVBC2" tvg-logo="" group-title="TELUGU",SVBC2
+http://103.51.21.134/app/ts_live_1417.m3u8
+#EXTINF:-1 tvg-name="Ganga Darshan Varanasi" tvg-logo="" group-title="DEVOTIONAL",Ganga Darshan Varanasi
+http://103.51.21.134/app/ts_live_1415.m3u8
+#EXTINF:-1 tvg-name="Prati Shirdi Saibaba" tvg-logo="" group-title="DEVOTIONAL",Prati Shirdi Saibaba
+http://103.51.21.134/app/ts_live_1414.m3u8
+
+#EXTINF:-1 tvg-name="SongDew TV" tvg-logo="" group-title="MUSIC",SongDew TV
+http://103.51.21.134/app/ts_live_1411.m3u8
+
+#EXTINF:-1 tvg-name=" NHK World Japan" tvg-logo="" group-title="ENGLISH NEWS", NHK World Japan
+http://103.51.21.134/app/ts_live_1405.m3u8
+#EXTINF:-1 tvg-name="Republic Bharat" tvg-logo="" group-title="Regional News",Republic Bharat
+http://10.40.255.243/app/dplay.php?&cid=1403&id=Republic_Bharat_MOB-audio_98834_hin=98800-video=2293600.m3u8
+#EXTINF:-1 tvg-name=" MTV Beats SD" tvg-logo="" group-title="MUSIC", MTV Beats SD
+http://103.51.21.134/app/ts_live_1400.m3u8
+
+
+
+#EXTINF:-1 tvg-name="HHDL" tvg-logo="" group-title="SPORTS",EUROSPORT
+http://103.51.21.134/app/ts_live_1294.m3u8
+#EXTINF:-1 tvg-name="Wellness" tvg-logo="" group-title="LIFESTYLE",Wellness
+http://103.51.21.134/app/ts_live_1292.m3u8
+#EXTINF:-1 tvg-name="ABP Sanjha" tvg-logo="" group-title="PUNJABI",ABP Sanjha
+http://103.51.21.134/app/ts_live_1291.m3u8
+#EXTINF:-1 tvg-name="ZEE CLASSIC" tvg-logo="" group-title="HINDI MOVIES",ZEE CLASSIC
+http://172.172.171.2/hls/modn/list/8131/playlist.m3u8
+
+
+http://103.51.21.134/app/ts_live_1274.m3u8
+#EXTINF:-1 tvg-name="Shri Krishna Matha Udupi" tvg-logo="" group-title="DEVOTIONAL",Shri Krishna Matha Udupi
+http://103.51.21.134/app/ts_live_1271.m3u8
+#EXTINF:-1 tvg-name="Global Sanjh" tvg-logo="" group-title="OTHERS",Global Sanjh
+
+http://103.51.21.134/app/ts_live_1265.m3u8
+#EXTINF:-1 tvg-name="Kolkata TV" tvg-logo="" group-title="BENGALI",Kolkata TV
+
+http://103.51.21.134/app/ts_live_1264.m3u8
+#EXTINF:-1 tvg-name="Total TV Haryana" tvg-logo="" group-title="TELUGU",Total TV Haryana
+http://103.51.21.134/app/ts_live_1263.m3u8
+#EXTINF:-1  tvg-name="Culcutta Regional News" tvg-logo="" group-title="BENGALI",Culcutta Regional News
+http://103.51.21.134/app/ts_live_1261.m3u8
+#EXTINF:-1 tvg-name="Ctvn Akd Plus" tvg-logo="" group-title="OTHERS",Ctvn Akd Plus
+
+http://103.51.21.134/app/ts_live_1260.m3u8
+#EXTINF:-1tvg-name=" Surya Samachar" tvg-logo="" group-title="HINDI NEWS", Surya Samachar
+
+http://103.51.21.134/app/ts_live_1257.m3u8
+#EXTINF:-1 tvg-name="Devotional Kannada" tvg-logo="" group-title="KANNADA",Devotional Kannada
+http://103.51.21.134/app/ts_live_1256.m3u8
+#EXTINF:-1 tvg-name="Devotional Gujrati" tvg-logo="" group-title="GUJRATI",Devotional Gujrati
+
+http://103.51.21.134/app/ts_live_1255.m3u8
+#EXTINF:-1 tvg-name="Devotional Telugu" tvg-logo="" group-title="TELUGU",Devotional Telugu
+http://103.51.21.134/app/ts_live_1254.m3u8
+#EXTINF:-1 tvg-name="TV9 Bharatvarsh" tvg-logo="" group-title="HINDI NEWS",TV9 Bharatvarsh
+
+http://103.51.21.134/app/ts_live_1251.m3u8
+#EXTINF:-1 tvg-name="Twenty Four Regional News" tvg-logo="" group-title="MALAYALAM",Twenty Four Regional News
+
+
+
+
+
+#EXTINF:-1 tvg-name="Nick Kannada" tvg-logo="" group-title="KANNADA",Nick Kannada
+http://103.51.21.134/app/ts_live_1244.m3u8
+#EXTINF:-1 tvg-name="Sonic Kannada" tvg-logo="" group-title="KANNADA",Sonic Kannada
+http://103.51.21.134/app/ts_live_1243.m3u8
+#EXTINF:-1 tvg-name="Sonic Telugu" tvg-logo="" group-title="TELUGU",Sonic Telugu
+http://103.51.21.134/app/ts_live_1242.m3u8
+#EXTINF:-1 tvg-name="God TV" tvg-logo="" group-title="DEVOTIONAL",God TV
+http://103.51.21.134/app/ts_live_1241.m3u8
+#EXTINF:-1 tvg-name="TEST10 HD" tvg-logo="" group-title="HINDI MOVIES",TEST10 HD
+http://103.51.21.134/app/ts_live_1240.m3u8
+#EXTINF:-1 tvg-name="Hi Dost!" tvg-logo="" group-title="CARTOON & KIDS",Hi Dost!
+http://103.51.21.134/app/ts_live_1232.m3u8
+#EXTINF:-1 tvg-name="PTC VR" tvg-logo="" group-title="PUNJABI",PTC VR
+http://103.51.21.134/app/ts_live_1230.m3u8
+
+#EXTINF:-1 tvg-name="Digishala" tvg-logo="" group-title="OTHERS",Digishala
+
+http://103.51.21.134/app/ts_live_1227.m3u8
+#EXTINF:-1 tvg-name="Nick HD" tvg-logo="" group-title="CARTOON & KIDS",Nick HD
+http://103.51.21.134/app/ts_live_1226.m3u8
+
+
+
+http://103.51.21.134/app/ts_live_1220.m3u8
+
+#EXTINF:-1 tvg-name="Hare krsna Pravachan" tvg-logo="" group-title="DEVOTIONAL",Hare krsna Pravachan
+
+http://103.51.21.134/app/ts_live_1212.m3u8
+#EXTINF:-1 tvg-name="Kalaignar Seithigal" tvg-logo="" group-title="TAMILI",Kalaignar Seithigal
+http://103.51.21.134/app/ts_live_1210.m3u8
+#EXTINF:-1 tvg-name="Kalaignar TV" tvg-logo="" group-title="TAMILI",Kalaignar TV
+
+http://103.51.21.134/app/ts_live_1209.m3u8
+#EXTINF:-1 tvg-name="ABP Ganga" tvg-logo="" group-title="HINDI NEWS",ABP Ganga
+http://103.51.21.134/app/ts_live_1205.m3u8
+#EXTINF:-1 tvg-name="Saghguru Television HD" tvg-logo="" group-title="PUNJABI",Saghguru Television HD
+http://103.51.21.134/app/ts_live_1201.m3u8
+#EXTINF:-1 tvg-name="Hare Krsna Music" tvg-logo="" group-title="DEVOTIONAL",Hare Krsna Music
+http://103.51.21.134/app/ts_live_1193.m3u8
+
+#EXTINF:-1 tvg-name="PTC Simran" tvg-logo="" group-title="PUNJABI",PTC Simran
+http://103.51.21.134:80/app/ts_live_1191.m3u8
+#EXTINF:-1 tvg-name="PTC Punjabi Gold" tvg-logo="" group-title="PUNJABI",PTC Punjabi Gold
+http://103.51.21.134/app/ts_live_1190.m3u8
+#EXTINF:-1 tvg-name="PTC Music" tvg-logo="" group-title="PUNJABI",PTC Music
+
+http://103.51.21.134/app/ts_live_1189.m3u8
+#EXTINF:-1 tvg-name="PTC DHOL TV" tvg-logo="" group-title="PUNJABI",PTC DHOL TV
+
+http://103.51.21.134/app/ts_live_1188.m3u8
+#EXTINF:-1 tvg-name="Valam TV" tvg-logo="" group-title="GUJRATI",Valam TV
+
+http://103.51.21.134/app/ts_live_1187.m3u8
+
+
+#EXTINF:-1  tvg-name="Steelbird Music" tvg-logo="" group-title="MUSIC",Steelbird Music
+http://103.51.21.134/app/ts_live_1184.m3u8
+
+
+#EXTINF:-1 tvg-name="Fateh TV" tvg-logo="" group-title="PUNJABI",Fateh TV
+
+http://103.51.21.134/app/ts_live_1174.m3u8
+#EXTINF:-1 tvg-name="PTC Chak De" tvg-logo="" group-title="PUNJABI",PTC Chak De
+
+http://103.51.21.134/app/ts_live_1172.m3u8
+#EXTINF:-1 tvg-name="PTC Punjabi" tvg-logo="" group-title="PUNJABI",PTC Punjabi
+
+http://103.51.21.134/app/ts_live_1171.m3u8
+#EXTINF:-1 tvg-name="PTC Regional News" tvg-logo="" group-title="PUNJABI",PTC Regional News
+
+http://103.51.21.134/app/ts_live_1163.m3u8
+
+
+http://103.51.21.134/app/ts_live_1157.m3u8
+#EXTINF:-1 tvg-name="MTV HD Plus" tvg-logo="" group-title="MUSIC",MTV HD Plus
+
+http://103.51.21.134/app/ts_live_1145.m3u8
+#EXTINF:-1 tvg-name="MAA MUSIC" tvg-logo="" group-title="MUSIC",MAA MUSIC
+http://172.172.171.2/hls18/stream_12.m3u8
+#EXTINF:-1  tvg-name="PEACE MUSIC" tvg-logo="" group-title="MUSIC",PEACE MUSIC
+
+http://103.51.21.134/app/ts_live_1103.m3u8
+#EXTINF:-1 tvg-name="CN HD+ Tamil" tvg-logo="" group-title="TAMILI",CN HD+ Tamil
+
+http://103.51.21.134/app/ts_live_1081.m3u8
+#EXTINF:-1 tvg-name="CN HD+ Telugu" tvg-logo="" group-title="TELUGU",CN HD+ Telugu
+
+http://103.51.21.134/app/ts_live_1080.m3u8
+#EXTINF:-1 tvg-name="CN HD+ English" tvg-logo="" group-title="CARTOON & KIDS",CN HD+ English
+
+http://103.51.21.134/app/ts_live_1079.m3u8
+#EXTINF:-1 tvg-name="Soham TV" tvg-logo="" group-title="DEVOTIONAL",Soham TV
+
+http://103.51.21.134/app/ts_live_1078.m3u8
+#EXTINF:-1 tvg-name="Sharnam TV" tvg-logo="" group-title="DEVOTIONAL",Sharnam TV
+
+http://103.51.21.134/app/ts_live_1077.m3u8
+#EXTINF:-1 tvg-name="Om Shanti" tvg-logo="" group-title="DEVOTIONAL",Om Shanti
+
+http://103.51.21.134/app/ts_live_964.m3u8
+#EXTINF:-1 tvg-name="Arre HD " tvg-logo="" group-title="DEVOTIONAL",Arre HD 
+
+
+
+
+
+http://103.51.21.134/app/ts_live_959.m3u8
+#EXTINF:-1 tvg-name="DNN" tvg-logo="" group-title="HINDI NEWS",DNN
+http://103.51.21.134/app/ts_live_956.m3u8
+#EXTINF:-1 tvg-name="Propex TV" tvg-logo="" group-title="OTHERS",Propex TV
+
+http://103.51.21.134/app/ts_live_953.m3u8
+#EXTINF:-1 tvg-name="Garv Punjabi Gurbani" tvg-logo="" group-title="PUNJABI",Garv Punjabi Gurbani
+
+http://103.51.21.134/app/ts_live_952.m3u8
+#EXTINF:-1 tvg-name="Live Punjabi TV" tvg-logo="" group-title="PUNJABI",Live Punjabi TV
+
+http://103.51.21.134/app/ts_live_951.m3u8
+#EXTINF:-1 tvg-name="R Plus" tvg-logo="" group-title="BENGALI",R Plus
+
+http://103.51.21.134/app/ts_live_950.m3u8
+#EXTINF:-1 tvg-name="Pitaara" tvg-logo="" group-title="OTHERS",Pitaara
+http://103.51.21.134/app/ts_live_946.m3u8
+#EXTINF:-1 tvg-name="Mantavya Regional News" tvg-logo="" group-title="Regional News",Mantavya Regional News
+http://103.51.21.134/app/ts_live_944.m3u8
+#EXTINF:-1 tvg-name="Bhakti Sagar TV" tvg-logo="" group-title="DEVOTIONAL",Bhakti Sagar TV
+
+http://103.51.21.134/app/ts_live_939.m3u8
+#EXTINF:-1 tvg-name="BTV" tvg-logo="" group-title="OTHERS",BTV
+
+http://103.51.21.134/app/ts_live_938.m3u8
+#EXTINF:-1 tvg-name="Sai TV" tvg-logo="" group-title="TAMILI",Sai TV
+
+http://103.51.21.134/app/ts_live_937.m3u8
+#EXTINF:-1 tvg-name="Regional News 1 India" tvg-logo="" group-title="HINDI NEWS",Regional News 1 India
+
+http://103.51.21.134/app/ts_live_936.m3u8
+#EXTINF:-1 tvg-name="Divya Vani" tvg-logo="" group-title="DEVOTIONAL",Divya Vani
+
+http://103.51.21.134/app/ts_live_934.m3u8
+#EXTINF:-1 tvg-name="4 TV" tvg-logo="" group-title="TELUGU",4 TV
+
+http://103.51.21.134/app/ts_live_933.m3u8
+#EXTINF:-1 tvg-name="ZEE 24 Kalak" tvg-logo="" group-title="GUJRATI",ZEE 24 Kalak
+
+http://103.51.21.134/app/ts_live_929.m3u8
+#EXTINF:-1 tvg-name="First India Regional News" tvg-logo="" group-title="HINDI NEWS",First India Regional News
+
+
+
+http://103.51.21.134/app/ts_live_926.m3u8
+#EXTINF:-1 tvg-name="Mercy TV" tvg-logo="" group-title="OTHERS",Mercy TV
+
+http://103.51.21.134/app/ts_live_924.m3u8
+#EXTINF:-1 tvg-name="R Kannada" tvg-logo="" group-title="KANNADA",R Kannada
+
+http://103.51.21.134/app/ts_live_923.m3u8
+#EXTINF:-1 tvg-name="Prime Regional News" tvg-logo="" group-title="HINDI NEWS",Prime Regional News
+
+http://103.51.21.134/app/ts_live_921.m3u8
+#EXTINF:-1 tvg-name="Bharat Samachar" tvg-logo="" group-title="HINDI NEWS",Bharat Samachar
+
+http://103.51.21.134/app/ts_live_918.m3u8
+#EXTINF:-1 tvg-name="TV 100" tvg-logo="" group-title="HINDI NEWS",TV 100
+
+http://103.51.21.134/app/ts_live_916.m3u8
+#EXTINF:-1 tvg-name="Khabar Fast" tvg-logo="" group-title="HINDI NEWS",Khabar Fast
+http://103.51.21.134/app/ts_live_915.m3u8
+#EXTINF:-1 tvg-name="Indradhanu" tvg-logo="" group-title="BENGALI",Indradhanu
+
+
+
+http://103.51.21.134/app/ts_live_907.m3u8
+#EXTINF:-1 tvg-name="Desi Channel" tvg-logo="" group-title="PUNJABI",Desi Channel
+
+http://103.51.21.134/app/ts_live_906.m3u8
+#EXTINF:-1 tvg-name="Sanjha TV" tvg-logo="" group-title="PUNJABI",Sanjha TV
+
+http://103.51.21.134/app/ts_live_904.m3u8
+#EXTINF:-1 tvg-name="Only Music" tvg-logo="" group-title="PUNJABI",Only Music
+
+http://103.51.21.134/app/ts_live_903.m3u8
+#EXTINF:-1 tvg-name="Udaya HD" tvg-logo="" group-title="KANNADA",Udaya HD
+
+http://103.51.21.134/app/ts_live_901.m3u8
+#EXTINF:-1 tvg-name="Surya HD" tvg-logo="" group-title="KANNADA",Surya HD
+
+http://103.51.21.134/app/ts_live_900.m3u8
+#EXTINF:-1 tvg-name="Gemini Movies HD" tvg-logo="" group-title="TELUGU",Gemini Movies HD
+
+http://103.51.21.134/app/ts_live_899.m3u8
+#EXTINF:-1 Gemini Music HDtvg-name="Gemini Music HD" tvg-logo="" group-title="TELUGU",Gemini Music HD
+
+
+http://103.51.21.134/app/ts_live_898.m3u8
+#EXTINF:-1 tvg-name="Gemini TV HD" tvg-logo="" group-title="TELUGU",Gemini TV HD
+
+
+http://103.51.21.134/app/ts_live_897.m3u8
+#EXTINF:-1 tvg-name="Gemini Music" tvg-logo="" group-title="TELUGU",Gemini Music
+http://172.172.171.2/hls/modn/list/8029/playlist.m3u8
+#EXTINF:-1 tvg-name="Sun TV HD" tvg-logo="" group-title="TAMILI",Sun TV HD
+
+http://103.51.21.134/app/ts_live_896.m3u8
+#EXTINF:-1 tvg-name="Sun TV" tvg-logo="" group-title="TAMILI",Sun TV
+http://172.172.171.2/hls/modn/list/8034/playlist.m3u8
+#EXTINF:-1 tvg-name="Sun Music HD" tvg-logo="" group-title="TAMILI",Sun Music HD
+
+http://103.51.21.134/app/ts_live_895.m3u8
+#EXTINF:-1 tvg-name="KTV HD" tvg-logo="" group-title="TAMILI",KTV HD
+http://103.51.21.134/app/ts_live_894.m3u8
+#EXTINF:-1 tvg-name="Vedant Ras Swar Shree" tvg-logo="" group-title="DEVOTIONAL",Vedant Ras Swar Shree
+
+
+
+http://103.51.21.134/app/ts_live_886.m3u8
+#EXTINF:-1 tvg-name="TV5 Monde" tvg-logo="" group-title="ENGLISH MOVIES",TV5 Monde
+
+http://103.51.21.134/app/ts_live_885.m3u8
+#EXTINF:-1 tvg-name="Regional News11" tvg-logo="" group-title="HINDI NEWS",Regional News11
+
+http://103.51.21.134/app/ts_live_882.m3u8
+#EXTINF:-1 tvg-name="Janta TV" tvg-logo="" group-title="HINDI NEWS",Janta TV
+
+http://103.51.21.134/app/ts_live_880.m3u8
+#EXTINF:-1 tvg-name="Hare Krsna" tvg-logo="" group-title="DEVOTIONAL",Hare Krsna
+
+http://103.51.21.134/app/ts_live_879.m3u8
+#EXTINF:-1 tvg-name="Times Now World" tvg-logo="" group-title="ENGLISH NEWS",Times Now World
+http://103.51.21.134/app/ts_live_876.m3u8
+#EXTINF:-1 tvg-name="Eurosport HD" tvg-logo="" group-title="SPORTS",Eurosport HD
+http://103.51.21.134/app/ts_live_875.m3u8
+#EXTINF:-1 tvg-name="Jio Events HD" tvg-logo="" group-title="DEVOTIONAL",Jio Events HD
+
+http://103.51.21.134/app/ts_live_871.m3u8
+#EXTINF:-1 tvg-name="Jio Exclusive HD" tvg-logo="" group-title="LIFESTYLE",Jio Exclusive HD
+ 
+http://103.51.21.134/app/ts_live_866.m3u8
+#EXTINF:-1 tvg-name="Republic TV" tvg-logo="" group-title="HINDI NEWS",Republic TV
+
+http://103.51.21.134/app/ts_live_858.m3u8
+#EXTINF:-1 tvg-name="Vendhar TV" tvg-logo="" group-title="TAMILI",Vendhar TV
+
+http://103.51.21.134/app/ts_live_857.m3u8
+#EXTINF:-1 tvg-name="Vedic TV" tvg-logo="" group-title="DEVOTIONAL",Vedic TV
+
+http://103.51.21.134/app/ts_live_856.m3u8
+#EXTINF:-1 tvg-name="Total TV" tvg-logo="" group-title="HINDI NEWS",Total TV
+
+http://103.51.21.134/app/ts_live_855.m3u8
+#EXTINF:-1 tvg-name="SMBC TV" tvg-logo="" group-title="HINDI NEWS",SMBC TV
+
+http://103.51.21.134/app/ts_live_851.m3u8
+#EXTINF:-1 tvg-name="Regional News India 24x7" tvg-logo="" group-title="HINDI NEWS",Regional News India 24x7
+http://103.51.21.134/app/ts_live_850.m3u8
+#EXTINF:-1 tvg-name="MK TV" tvg-logo="" group-title="TAMILI",MK TV
+
+http://103.51.21.134/app/ts_live_847.m3u8
+#EXTINF:-1 tvg-name="MKN Regional News" tvg-logo="" group-title="HINDI NEWS",MKN Regional News
+
+http://103.51.21.134/app/ts_live_846.m3u8
+#EXTINF:-1 tvg-name="MK Music" tvg-logo="" group-title="TAMILI",MK Music
+
+http://103.51.21.134/app/ts_live_845.m3u8
+#EXTINF:-1 tvg-name="Mazavali Manorama HD" tvg-logo="" group-title="OTHERS",Mazavali Manorama HD
+http://103.51.21.134/app/ts_live_844.m3u8
+#EXTINF:-1 tvg-name="Madhimugam TV" tvg-logo="" group-title="TAMILI",Madhimugam TV
+
+http://103.51.21.134/app/ts_live_843.m3u8
+#EXTINF:-1 tvg-name="Jeevan TV" tvg-logo="" group-title="TAMILI",Jeevan TV
+
+http://103.51.21.134/app/ts_live_842.m3u8
+#EXTINF:-1 tvg-name="France 24" tvg-logo="" group-title="ENGLISH NEWS",France 24
+
+http://103.51.21.134/app/ts_live_838.m3u8
+#EXTINF:-1 tvg-name="Euro Regional News" tvg-logo="" group-title="ENGLISH NEWS",Euro Regional News
+
+http://103.51.21.134/app/ts_live_837.m3u8
+#EXTINF:-1 tvg-name="10 TV" tvg-logo="" group-title="TELUGU",10 TV
+
+http://103.51.21.134/app/ts_live_832.m3u8
+#EXTINF:-1 tvg-name="Living India Regional News" tvg-logo="" group-title="PUNJABI",Living India Regional News
+
+http://103.51.21.134/app/ts_live_831.m3u8
+#EXTINF:-1 tvg-name="Thanthi TV" tvg-logo="" group-title="TAMILI",Thanthi TV
+
+http://103.51.21.134/app/ts_live_830.m3u8
+#EXTINF:-1 tvg-name="Sri Sankara" tvg-logo="" group-title="DEVOTIONAL",Sri Sankara
+
+http://103.51.21.134/app/ts_live_829.m3u8
+#EXTINF:-1 tvg-name="Shubh TV" tvg-logo="" group-title="DEVOTIONAL",Shubh TV
+
+http://103.51.21.134/app/ts_live_828.m3u8
+#EXTINF:-1 tvg-name="Malai Murasu" tvg-logo="" group-title="TAMILI",Malai Murasu
+
+http://103.51.21.134/app/ts_live_826.m3u8
+#EXTINF:-1 tvg-name="Puthu Yugam" tvg-logo="" group-title="TAMILI",Puthu Yugam
+
+http://103.51.21.134/app/ts_live_824.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network Tamil" tvg-logo="" group-title="TAMILI",Cartoon Network Tamil
+
+http://103.51.21.134/app/ts_live_817.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network Hindi" tvg-logo="" group-title="CARTOON & KIDS",Cartoon Network Hindi
+
+http://103.51.21.134/app/ts_live_816.m3u8
+#EXTINF:-1 tvg-name="Sonic Hindi" tvg-logo="" group-title="CARTOON & KIDS",Sonic Hindi
+
+http://103.51.21.134/app/ts_live_815.m3u8
+#EXTINF:-1 tvg-name="Travelxp Tamil" tvg-logo="" group-title="TAMILI",Travelxp Tamil
+
+http://103.51.21.134/app/ts_live_814.m3u8
+#EXTINF:-1 tvg-name="Janam TV" tvg-logo="" group-title="OTHERS",Janam TV
+
+http://103.51.21.134/app/ts_live_810.m3u8
+#EXTINF:-1 tvg-name="Maha Movies" tvg-logo="" group-title="HINDI MOVIES",Maha Movies
+
+http://103.51.21.134/app/ts_live_809.m3u8
+#EXTINF:-1 tvg-name="Hindi Khabar" tvg-logo="" group-title="HINDI NEWS",Hindi Khabar
+
+http://103.51.21.134/app/ts_live_808.m3u8
+#EXTINF:-1 tvg-name="Gulistan Regional News" tvg-logo="" group-title="HINDI MOVIES",Gulistan Regional News
+
+http://103.51.21.134/app/ts_live_807.m3u8
+#EXTINF:-1 tvg-name="Samachar Plus" tvg-logo="" group-title="HINDI NEWS",Samachar Plus
+
+
+
+http://103.51.21.134/app/ts_live_803.m3u8
+#EXTINF:-1 tvg-name="Divya TV" tvg-logo="" group-title="DEVOTIONAL",Divya TV
+http://103.51.21.134/app/ts_live_801.m3u8
+#EXTINF:-1  tvg-name="Naxatra Regional News" tvg-logo="" group-title="ODIA",Naxatra Regional News
+
+
+
+http://103.51.21.134/app/ts_live_797.m3u8
+#EXTINF:-1 tvg-name="Peppers TV" tvg-logo="" group-title="TELUGU",Peppers TV
+
+http://103.51.21.134/app/ts_live_796.m3u8
+#EXTINF:-1 tvg-name="Peace of Mind" tvg-logo="" group-title="DEVOTIONAL",Peace of Mind
+
+http://103.51.21.134/app/ts_live_794.m3u8
+#EXTINF:-1 tvg-name="Regional News State UK UP" tvg-logo="" group-title="HINDI MOVIES",Regional News State UK UP
+http://103.51.21.134/app/ts_live_792.m3u8
+#EXTINF:-1 tvg-name="I Regional News" tvg-logo="" group-title="HINDI MOVIES",I Regional News
+http://103.51.21.134/app/ts_live_790.m3u8
+#EXTINF:-1 tvg-name="JK 24x7 Regional News" tvg-logo="" group-title="HINDI MOVIES",JK 24x7 Regional News
+
+http://103.51.21.134/app/ts_live_789.m3u8
+#EXTINF:-1 tvg-name="India Voice" tvg-logo="" group-title="HINDI MOVIES",India Voice
+
+http://103.51.21.134/app/ts_live_788.m3u8
+#EXTINF:-1 tvg-name="CVR English" tvg-logo="" group-title="ENGLISH NEWS",CVR English
+
+http://103.51.21.134/app/ts_live_787.m3u8
+#EXTINF:-1 tvg-name="Kappa TV" tvg-logo="" group-title="KANNADA",Kappa TV
+
+http://103.51.21.134/app/ts_live_786.m3u8
+#EXTINF:-1 tvg-name="colors Super" tvg-logo="" group-title="KANNADA",colors Super
+
+http://103.51.21.134/app/ts_live_785.m3u8
+#EXTINF:-1 tvg-name="CVR Regional News" tvg-logo="" group-title="TELUGU",CVR Regional News
+
+http://103.51.21.134/app/ts_live_784.m3u8
+#EXTINF:-1 tvg-name="K Regional News India" tvg-logo="" group-title="HINDI NEWS",K Regional News India
+
+http://103.51.21.134/app/ts_live_783.m3u8
+#EXTINF:-1 tvg-name="Sandesh Regional News" tvg-logo="" group-title="HINDI NEWS",Sandesh Regional News
+
+http://103.51.21.134/app/ts_live_782.m3u8
+#EXTINF:-1 tvg-name="Kalinga TV" tvg-logo="" group-title="ODIA",Kalinga TV
+
+http://103.51.21.134/app/ts_live_781.m3u8
+#EXTINF:-1 tvg-name="Mathrubhumi Regional News" tvg-logo="" group-title="TAMILI",Mathrubhumi Regional News
+
+http://103.51.21.134/app/ts_live_780.m3u8
+#EXTINF:-1 tvg-name="Prameya Regional News 7" tvg-logo="" group-title="ODIA",Prameya Regional News 7
+
+http://103.51.21.134/app/ts_live_779.m3u8
+#EXTINF:-1 tvg-name="Public TV" tvg-logo="" group-title="KANNADA",Public TV
+
+http://103.51.21.134/app/ts_live_778.m3u8
+#EXTINF:-1 tvg-name="CVR OM Spiritual" tvg-logo="" group-title="TELUGU",CVR OM Spiritual
+
+
+
+http://103.51.21.134/app/ts_live_771.m3u8
+#EXTINF:-1 tvg-name="Kashish Regional News" tvg-logo="" group-title="HINDI NEWS",Kashish Regional News
+
+http://103.51.21.134/app/ts_live_770.m3u8
+#EXTINF:-1 tvg-name="V6 Regional News" tvg-logo="" group-title="TELUGU",V6 Regional News
+
+http://103.51.21.134/app/ts_live_769.m3u8
+#EXTINF:-1 tvg-name="Jan TV" tvg-logo="" group-title="HINDI NEWS",Jan TV
+http://103.51.21.134/app/ts_live_768.m3u8
+#EXTINF:-1 tvg-name="Raj Regional News 24x7" tvg-logo="" group-title="KANNADA",Raj Regional News 24x7
+
+http://103.51.21.134/app/ts_live_767.m3u8
+#EXTINF:-1 tvg-name="Jonack" tvg-logo="" group-title="MUSIC",Jonack
+
+http://103.51.21.134/app/ts_live_765.m3u8
+#EXTINF:-1 tvg-name="Channel Regional News Asia  Internation" tvg-logo="" group-title="ENGLISH NEWS",Channel Regional News Asia  Internation
+
+http://103.51.21.134/app/ts_live_764.m3u8
+#EXTINF:-1 tvg-name="Colors kannada HD" tvg-logo="" group-title="KANNADA",Colors kannada HD
+
+http://103.51.21.134/app/ts_live_757.m3u8
+#EXTINF:-1 tvg-name="Colors Marathi HD" tvg-logo="" group-title="MARATHI",Colors Marathi HD
+
+http://103.51.21.134/app/ts_live_755.m3u8
+#EXTINF:-1 tvg-name="MTV Beats HD" tvg-logo="" group-title="MUSIC",MTV Beats HD
+
+http://103.51.21.134/app/ts_live_753.m3u8
+#EXTINF:-1 tvg-name="Raj Musix" tvg-logo="" group-title="TAMILI",Raj Musix
+
+http://103.51.21.134/app/ts_live_748.m3u8
+#EXTINF:-1 tvg-name="Surya Music" tvg-logo="" group-title="TAMILI",Surya Music
+
+http://103.51.21.134/app/ts_live_747.m3u8
+#EXTINF:-1 tvg-name="Udaya Music" tvg-logo="" group-title="TAMILI",Udaya Music
+
+http://103.51.21.134/app/ts_live_744.m3u8
+#EXTINF:-1 tvg-name="Raj Music Kannada" tvg-logo="" group-title="KANNADA",Raj Music Kannada
+
+http://103.51.21.134/app/ts_live_743.m3u8
+#EXTINF:-1 tvg-name="mh1 ( music )" tvg-logo="" group-title="PUNJABI",mh1 ( music )
+
+http://103.51.21.134/app/ts_live_742.m3u8
+#EXTINF:-1 tvg-name="Sangeet Bangla" tvg-logo="" group-title="BENGALI",Sangeet Bangla
+
+http://103.51.21.134/app/ts_live_740.m3u8
+#EXTINF:-1 tvg-name="Raj Music Malayalam" tvg-logo="" group-title="MALAYALAM",Raj Music Malayalam
+
+http://103.51.21.134/app/ts_live_739.m3u8
+#EXTINF:-1 tvg-name="Fakt Marathi" tvg-logo="" group-title="MARATHI",Fakt Marathi
+http://103.51.21.134/app/ts_live_738.m3u8
+#EXTINF:-1 tvg-name="Raj Music Telugu" tvg-logo="" group-title="TELUGU",Raj Music Telugu
+
+http://103.51.21.134/app/ts_live_737.m3u8
+#EXTINF:-1 tvg-name="Sangeet Marathi" tvg-logo="" group-title="MARATHI",Sangeet Marathi
+
+http://103.51.21.134/app/ts_live_735.m3u8
+#EXTINF:-1 tvg-name="Vissa TV" tvg-logo="" group-title="TELUGU",Vissa TV
+
+http://103.51.21.134/app/ts_live_734.m3u8
+#EXTINF:-1 tvg-name="Udaya Comedy" tvg-logo="" group-title="TAMILI",Udaya Comedy
+
+http://103.51.21.134/app/ts_live_733.m3u8
+#EXTINF:-1 tvg-name="Gemini Comedy" tvg-logo="" group-title="TELUGU",Gemini Comedy
+http://103.51.21.134/app/ts_live_729.m3u8
+#EXTINF:-1 tvg-name="ZEE Salaam" tvg-logo="" group-title="HINDI ENTERTAINMENT",ZEE Salaam
+http://103.51.21.134/app/ts_live_728.m3u8
+
+#EXTINF:-1 tvg-name="DD5 Podhigai" tvg-logo="" group-title="DD
+",DD5 Podhigaiy
+http://103.51.21.134/app/ts_live_726.m3u8
+#EXTINF:-1 tvg-name="Kairali Regional News" tvg-logo="" group-title="Regional News",Kairali Regional News
+http://103.51.21.134/app/ts_live_725.m3u8
+#EXTINF:-1 tvg-name="ZEE Delhi NCR Haryana" tvg-logo="" group-title="HINDI NEWS",ZEE Delhi NCR Haryana
+http://103.51.21.134/app/ts_live_724.m3u8
+#EXTINF:-1 tvg-name="Amrita TV" tvg-logo="" group-title="TAMILI",Amrita TV
+http://103.51.21.134/app/ts_live_723.m3u8
+#EXTINF:-1 tvg-name="Nepal one" tvg-logo="" group-title="HINDI NEWS",Nepal one
+http://103.51.21.134/app/ts_live_719.m3u8
+#EXTINF:-1 tvg-name="Kanak News" tvg-logo="" group-title="ODIA",Kanak News 
+http://103.51.21.134/app/ts_live_718.m3u8
+#EXTINF:-1 tvg-name="Regional News18 Bangla Regional Newst" tvg-logo="" group-title="BENGALI",Regional News18 Bangla Regional News
+http://103.51.21.134/app/ts_live_717.m3u8
+#EXTINF:-1 tvg-name="DD Kashir" tvg-logo="" group-title="DD",DD Kashir
+http://103.51.21.134/app/ts_live_716.m3u8
+#EXTINF:-1 tvg-name="DD Punjabi" tvg-logo="" group-title="DD",DD Punjabi
+http://103.51.21.134/app/ts_live_715.m3u8
+#EXTINF:-1 tvg-name="DD Girnar" tvg-logo="" group-title="DD",DD Girnar
+http://103.51.21.134/app/ts_live_714.m3u8
+#EXTINF:-1 tvg-name="DD9 chandana ( kannada )" tvg-logo="" group-title="DD",DD9 chandana ( kannada )
+http://103.51.21.134/app/ts_live_713.m3u8
+#EXTINF:-1 tvg-name="DD Urdu" tvg-logo="" group-title="DD",DD Urdu
+http://103.51.21.134/app/ts_live_.712m3u8
+#EXTINF:-1 tvg-name="Kairali TV" tvg-logo="" group-title="TAMILI",Kairali TV
+http://103.51.21.134/app/ts_live_710.m3u8
+#EXTINF:-1 tvg-name="Adithya TV" tvg-logo="" group-title="TAMILI",Adithya TV
+http://103.51.21.134/app/ts_live_709.m3u8
+#EXTINF:-1 tvg-name="Makkal TV" tvg-logo="" group-title="TAMILI",Makkal TV
+http://103.51.21.134/app/ts_live_708.m3u8
+#EXTINF:-1 tvg-name="Raj TV" tvg-logo="" group-title="TAMILI",Raj TV
+http://103.51.21.134/app/ts_live_707.m3u8
+#EXTINF:-1 tvg-name="DD Saptagiri" tvg-logo="" group-title="DD",DD Saptagiri
+http://103.51.21.134/app/ts_live_706.m3u8
+#EXTINF:-1 tvg-name="Polimar TV" tvg-logo="" group-title="TAMILI",Polimar TV
+http://103.51.21.134/app/ts_live_705.m3u8
+#EXTINF:-1 tvg-name="DD Oria" tvg-logo="" group-title="ODIA",DD Oria
+http://103.51.21.134/app/ts_live_702.m3u8
+#EXTINF:-1 tvg-name="Dangal" tvg-logo="" group-title="HINDI MOVIES",Dangal
+http://103.51.21.134/app/ts_live_701.m3u8
+#EXTINF:-1 tvg-name="DD Malayalam" tvg-logo="" group-title="DD",DD Malayalam
+http://103.51.21.134/app/ts_live_699.m3u8
+#EXTINF:-1 tvg-name="Aakash Aath" tvg-logo="" group-title="BENGALI",Aakash Aath
+http://103.51.21.134/app/ts_live_698.m3u8
+#EXTINF:-1 tvg-name="Regional News18 Oriya" tvg-logo="" group-title="ODIA",Regional News18 Oriya
+http://103.51.21.134/app/ts_live_696.m3u8
+#EXTINF:-1, tvg-name="DD Sahayadri" tvg-logo="" group-title="DD",DD Sahayadri
+http://103.51.21.134/app/ts_live_695.m3u8
+#EXTINF:-1, tvg-name="Regional News18 JKLH" tvg-logo="" group-title="HINDI NEWS",Regional News18 JKLH
+http://103.51.21.134/app/ts_live_694.m3u8
+#EXTINF:-1, tvg-name="Regional News18 BIHAR" tvg-logo="" group-title="HINDI NEWS",Regional News18 BIHAR
+http://103.51.21.134/app/ts_live_693.m3u8
+
+
+
+
+
+original
+
