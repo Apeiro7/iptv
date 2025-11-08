@@ -1,0 +1,375 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="291" tvg-name="SONY HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SONYLIV",SONY HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-id="471" tvg-name="SONY SAB HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="SONYLIV",SONY SAB HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+#EXTINF:-1, SONY SAB
+http://172.172.171.2/hls/modn/list/8107/playlist.m3u8
+#EXTINF:-1 tvg-id="1146" tvg-name="SONY MARATHI{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SONYLIV",SONY MARATHI{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1 tvg-id="474" tvg-name="SONY PAL{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SONYLIV",SONY PAL{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 tvg-id="697" tvg-name="SONY AATH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="SONYLIV",SONY AATH{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:-1 tvg-id="872" tvg-name="SONY YAY{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SONYLIV",SONY YAY{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 tvg-id="476" tvg-name="SONY MAX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SONYLIV",SONY MAX HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-id="289" tvg-name="SONY MAX{SONYLIV}" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SONYLIV",SONY MAX{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY WAH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SONYLIV",SONY WAH{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-id="483" tvg-name="SONY MAX2{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SONYLIV",SONY MAX2{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY PIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SONYLIV",SONY PIX HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-id="525" tvg-name="SONY BBC EARTH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="SONYLIV",SONY BBC EARTH{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 1{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SONYLIV",SONY TEN 1{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 2{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SONYLIV",SONY TEN 2{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 3{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="SONYLIV",SONY TEN 3{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1, SONY TEN 3
+http://172.172.171.2:4750/8024/0/base/stream.ts
+#EXTINF:-1 tvg-id="892" tvg-name="SONY TEN 4{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="SONYLIV",SONY TEN 4{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY SIX{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SONYLIV",SONY SIX{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 1 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SONYLIV",SONY TEN 1 HD{SONYLIV}
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 2 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SONYLIV",SONY TEN 2 HD{SONYLIV}
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 3 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SONYLIV",SONY TEN 3 HD{SONYLIV}
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id="892" tvg-name="SONY TEN 4 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="SONYLIV",SONY TEN 4 HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:-1, STAR SPORT SELECT 1 HD
+http://172.172.171.2/hls/modn/list/8002/playlist.m3u8
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
+http://172.172.171.2/hls/modn/list/8010/playlist.m3u8
+#EXTINF:-1, STAR SPORT 2 HD
+http://172.172.171.2/hls/modn/list/8003/playlist.m3u8
+#EXTINF:-1, STAR SPORT 1 HINDI HD
+http://172.172.171.2/hls/modn/list/8004/playlist.m3u8
+#EXTINF:-1, STAR SPORT 1 HD
+http://172.172.171.2/hls/modn/list/8008/playlist.m3u8
+#EXTINF:-1, STAR SPORT SELECT 2 HD
+http://172.172.171.2/hls/modn/list/8016/playlist.m3u8
+#EXTINF:-1, STAR SPORT SELECT 1
+http://172.172.171.2/hls/modn/list/8065/playlist.m3u8
+#EXTINF:-1, STAR SPORT 1 HINDI
+http://172.172.171.2/hls/modn/list/8064/playlist.m3u8
+#EXTINF:-1, STAR SPORT 2
+http://172.172.171.2/hls/modn/list/8063/playlist.m3u8
+#EXTINF:-1, STAR PLUS HD
+http://172.172.171.2/hls/stream_28.m3u8
+#EXTINF:-1, STAR BHARAT HD
+http://172.172.171.2/hls/modn/list/8011/playlist.m3u8
+#EXTINF:-1, STAR JALSA HD
+http://172.172.171.2/hls/modn/list/8001/playlist.m3u8
+#EXTINF:-1, MAA TV HD
+http://172.172.171.2/hls/modn/list/8013/playlist.m3u8
+#EXTINF:-1, JALSA MOVIES HD
+http://172.172.171.2/hls/modn/list/8005/playlist.m3u8
+#EXTINF:-1, STAR GOLD HD
+
+http://172.172.171.2/hls/modn/list/8010/playlist.m3u8
+#EXTINF:-1, STAR SOUTH MOVIES HD
+http://172.172.171.2/hls/modn/list/8007/playlist.m3u8
+#EXTINF:-1, Star Vijay
+http://192.168.12.2/hls/21-stream.m3u8
+#EXTINF:-1, SPORTS 18 HD
+http://172.172.171.2/hls/modn/list/8000/playlist.m3u8
+#EXTINF:-1, PRAVAH HD
+http://172.172.171.2/hls/modn/list/8012/playlist.m3u8
+#EXTINF:-1, STAR GOLD SELECT HD
+http://172.172.171.2/hls/modn/list/8014/playlist.m3u8
+#EXTINF:-1, STAR GOLD 2
+http://172.172.171.2/hls/modn/list/8066/playlist.m3u8
+#EXTINF:-1, Star Maa Movies HD
+http://172.172.171.2/hls/modn/list/8007/playlist.m3u8
+#EXTINF:-1, STAR MOVIES
+http://172.172.171.2/hls/modn/list/8067/playlist.m3u8
+#EXTINF:-1, National Geographics HD
+http://172.172.171.2/hls/modn/list/8015/playlist.m3u8
+#EXTINF:-1, ZEE TV HD
+http://172.172.171.2/hls/modn/list/8055/playlist.m3u8
+#EXTINF:-1, & TV HD
+http://172.172.171.2/hls/modn/list/8058/playlist.m3u8
+#EXTINF:-1, & PICTURES HD
+http://172.172.171.2/hls/modn/list/8047/playlist.m3u8
+#EXTINF:-1, ZEE ZEST HD
+http://172.172.171.2/hls/modn/list/8038/playlist.m3u8
+#EXTINF:-1, ZEE CAFE HD
+http://172.172.171.2/hls/modn/list/8036/playlist.m3u8
+#EXTINF:-1, ZOOM
+http://172.172.171.2:4750/8101/0/base/stream.ts
+#EXTINF:-1, ZEE CINEMA HD
+http://172.172.171.2/hls/modn/list/8028/playlist.m3u8
+#EXTINF:-1, ZEE BANGLA CINEMA HD
+http://172.172.171.2/hls/modn/list/8074/playlist.m3u8
+#EXTINF:-1, Aakash aath
+http://103.51.21.134/app/ts_live_698.m3u8
+#EXTINF:-1, COLORS HD
+http://172.172.171.2/hls/modn/list/8033/playlist.m3u8
+#EXTINF:-1, COLORS INFINITY HD
+http://172.172.171.2/hls/modn/list/8018/playlist.m3u8
+#EXTINF:-1, PATIDAR HD
+http://172.172.171.2/hls/modn/list/8018/playlist.m3u8
+#EXTINF:-1, DD URDU
+http://103.51.21.134/app/ts_live_712.m3u8
+#EXTINF:-1, GRAND NEWS
+http://172.172.171.2/hls/modn/list/8020/playlist.m3u8
+#EXTINF:-1, AAJ TAK
+http://103.51.21.134/app/ts_live_173.m3u8
+#EXTINF:-1, ZEE 24 TAAS
+http://172.172.171.2/hls/modn/list/8100/playlist.m3u8
+#EXTINF:-1, INH 24*7
+http://172.172.171.2/hls/modn/list/8099/playlist.m3u8
+#EXTINF:-1, IND 24*7
+http://172.172.171.2/hls/modn/list/8098/playlist.m3u8
+#EXTINF:-1, NEWS 18 INDIA
+http://172.172.171.2/hls/modn/list/8096/playlist.m3u8
+#EXTINF:-1, VISTAAR NEWS
+http://103.51.21.134/app/ts_live_3070.m3u8
+#EXTINF:-1, ABP NEWS
+http://103.51.21.134/app/ts_live_177.m3u8
+#EXTINF:-1, NEWS 18 MP/CG INDIA
+http://172.172.171.2/hls/modn/list/8094/playlist.m3u8
+#EXTINF:-1 CNBC Awaaz
+http://103.51.21.134/app/ts_live_190.m3u8
+#EXTINF:-1 News 24
+http://103.51.21.134/app/ts_live_501.m3u8
+#EXTINF:-1 TV9 Bharatvarsh
+http://103.51.21.134/app/ts_live_1251.m3u8
+#EXTINF:-1, NDTV India
+http://103.51.21.134/app/ts_live_258.m3u8
+#EXTINF:-1, CNBC TV 18 PRIME HD
+http://172.172.171.2/hls/modn/list/8026/playlist.m3u8
+#EXTINF:-1, GRAND YAADIEN
+http://172.172.171.2/hls/modn/list/8048/playlist.m3u8
+#EXTINF:-1, GRAND KIDZ HD
+http://172.172.171.2/hls/modn/list/8049/playlist.m3u8
+#EXTINF:-1, CN HD+
+http://103.51.21.134/app/ts_live_1079.m3u8
+#EXTINF:-1, GRAND BOLLYWOOD HD
+http://172.172.171.2/hls/modn/list/8050/playlist.m3u8
+#EXTINF:-1, GRAND COMEDY
+http://172.172.171.2/hls/modn/list/8050/playlist.m3u8
+#EXTINF:-1, GRAND HOLLYWOOD HD
+http://172.172.171.2/hls/modn/list/8052/playlist.m3u8
+#EXTINF:-1, GRAND GURVEER
+http://172.172.171.2/hls/modn/list/8032/playlist.m3u8
+#EXTINF:-1, GRAND JAI JOHAAR
+http://172.172.171.2/hls/modn/list/8042/playlist.m3u8
+#EXTINF:-1, GRAND CG CINEMA HD
+http://172.172.171.2/hls/modn/list/8044/playlist.m3u8
+#EXTINF:-1, GRAND STUDIO
+http://172.172.171.2/hls/modn/list/8040/playlist.m3u8
+#EXTINF:-1, GRAND DAKSHIN HD
+http://172.172.171.2/hls/modn/list/8039/playlist.m3u8
+#EXTINF:-1, GRAND BHAKTI
+http://172.172.171.2/hls/modn/list/8039/playlist.m3u8
+#EXTINF:-1, Sundrani TV
+http://103.51.21.134/app/ts_live_3083.m3u8
+#EXTINF:-1, Shubhsandesh TV
+http://103.51.21.134/app/ts_live_608.m3u8
+#EXTINF:-1, Shemaroo TV
+http://103.51.21.134/app/ts_live_1961.m3u8
+#EXTINF:-1, Jinvani TV
+http://103.51.21.134/app/ts_live_596.m3u8
+#EXTINF:-1, Peace of mind
+http://103.51.21.134/app/ts_live_794.m3u8
+#EXTINF:-1, MTV
+http://172.172.171.2/hls/modn/list/8095/playlist.m3u8
+#EXTINF:-1, MTV BEATS
+http://172.172.171.2/hls/modn/list/8087/playlist.m3u8
+#EXTINF:-1, COMEDY CENTRAL
+http://172.172.171.2/hls/modn/list/8082/playlist.m3u8
+#EXTINF:-1, GEMINI TV
+http://172.172.171.2/hls/modn/list/8072/playlist.m3u8
+#EXTINF:-1, MOVIES NOW
+http://172.172.171.2/hls/modn/list/8104/playlist.m3u8
+#EXTINF:-1, ANIMAL PLANET HD
+http://172.172.171.2/hls/modn/list/8088/playlist.m3u8
+#EXTINF:-1, DISCOVERY HD
+http://172.172.171.2/hls/modn/list/8089/playlist.m3u8
+#EXTINF:-1, TLC HD
+http://172.172.171.2/hls/modn/list/8090/playlist.m3u8
+#EXTINF:-1, TRAVEL XP HD
+http://172.172.171.2/hls/modn/list/8030/playlist.m3u8
+#EXTINF:-1, VH1 HD
+http://172.172.171.2/hls/modn/list/8031/playlist.m3u8
+#EXTINF:-1, HISTORY TV 18 HD
+http://172.172.171.2/hls/modn/list/8035/playlist.m3u8
+#EXTINF:-1, NICK HD +
+http://172.172.171.2/hls/modn/list/8034/playlist.m3u8
+#EXTINF:-1, tvg-name="HSuper Hungama" tvg-logo="" group-title="Cartoon",Super Hungama
+http://192.168.8.2/hls/2-stream.m3u8
+#EXTINF:-1 tvg-name="Disney" tvg-logo="" group-title="CARTOON & KIDS",Disney
+http://172.172.171.2/hls/modn/list/8087/playlist.m3u8
+
+#EXTINF:-1, NICK
+http://172.172.171.2/hls/modn/list/8073/playlist.m3u8
+#EXTINF:-1, COLORS CINEPLEX
+http://172.172.171.2/hls/modn/list/8041/playlist.m3u8
+#EXTINF:-1, PATIDAAR DARSHAN
+http://172.172.171.2/hls/modn/list/8018/playlist.m3u8
+#EXTINF:-1, OTV KHABAR
+http://192.168.12.2/hls/1-stream.m3u8
+#EXTINF:-1, TARANG
+http://192.168.12.2/hls/2-stream.m3u8
+#EXTINF:-1, PRATHNA
+http://192.168.12.2/hls/3-stream.m3u8
+#EXTINF:-1, TARANG MUSIC
+http://192.168.12.2/hls/4-stream.m3u8
+#EXTINF:-1, ZEE CINEMALU HD
+http://192.168.8.2/hls/33-stream.m3u8
+#EXTINF:-1, SUVARNA PLUS
+http://192.168.12.2/hls/6-stream.m3u8
+#EXTINF:-1, STAR GOLD ROMANCE
+http://192.168.12.2/hls/8-stream.m3u8
+#EXTINF:-1, ZEE BANGLA
+http://192.168.8.2/hls/1-stream.m3u8						
+#EXTINF:-1, ZEE TV
+http://192.168.12.2/hls/10-stream.m3u8
+#EXTINF:-1, ZEE BOLLYWOOD
+http://172.172.171.2/hls/modn/list/8113/playlist.m3u8
+#EXTINF:-1, Zee Talkies
+http://192.168.8.2/hls/25-stream.m3u8						
+#EXTINF:-1, STAR SPORTS 1 HD
+http://192.168.12.2/hls/11-stream.m3u8						
+#EXTINF:-1, ZEE MARATHI
+http://192.168.12.2/hls/12-stream.m3u8
+#EXTINF:-1, ZEE BUISNESS
+http://103.51.21.134/app/ts_live_657.m3u8
+#EXTINF:-1, Sangeet Bangla
+http://103.51.21.134/app/ts_live_740.m3u8
+#EXTINF:-1, ZEE BANGLA CINEMA
+http://192.168.12.2/hls/14-stream.m3u8
+#EXTINF:-1, MTV BEATS					
+http://192.168.12.2/hls/15-stream.m3u8
+#EXTINF:-1, GRAND CHHATISHGARH							
+http://192.168.12.2/hls/16-stream.m3u8
+#EXTINF:-1, ETV TELGU
+http://103.51.21.134/app/ts_live_629.m3u8					
+#EXTINF:-1,COLORS MARATHI
+http://103.51.21.134/app/ts_live_755.m3u8						
+#EXTINF:-1, ASIANET MOVIES					
+http://192.168.12.2/hls/20-stream.m3u8						
+#EXTINF:-1, VIJAY TV
+http://192.168.12.2/hls/21-stream.m3u8						
+#EXTINF:-1, COLORS BANGLA
+http://103.51.21.134/app/ts_live_756.m3u8
+#EXTINF:-1, ZEE SALAAM
+http://103.51.21.134/app/ts_live_728.m3u8						
+#EXTINF:- 1,STAR SPORTS 1 HINDI HD
+http://192.168.12.2/hls/24-stream.m3u8						
+#EXTINF:-1,MUNSHIF TV
+http://192.168.12.2/hls/25-stream.m3u8						
+#EXTINF:-1, AAJ TAK
+http://103.51.21.134/app/ts_live_173.m3u8	
+#EXTINF:-1, Republic Bharat
+http://103.51.21.134/app/ts_live_1403.m3u8					
+#EXTINF:-1, KALINGA TV
+http://103.51.21.134/app/ts_live_781.m3u8						
+#EXTINF:-1, TEHZEEB
+http://103.51.21.134/app/ts_live_1252.m3u8						
+#EXTINF:-1, MANORANJAN TV
+http://192.168.12.2/hls/34-stream.m3u8						
+#EXTINF:-1, HAJARA NEWS
+http://192.168.12.2/hls/35-stream.m3u8	
+#EXTINF:-1, IBC 24
+http://103.51.21.134/app/ts_live_503.m3u8						
+#EXTINF:-1, DIVYA
+http://192.168.12.2/hls/37-stream.m3u8						
+#EXTINF:-1, DANGAL
+http://103.51.21.134/app/ts_live_701.m3u8						
+#EXTINF:-1, KHUSHBOO BANGLA
+http://192.168.12.2/hls/39-stream.m3u8						
+#EXTINF:-1,N1
+http://192.168.12.2/hls/40-stream.m3u8						
+#EXTINF:-1,RONGEEN
+http://192.168.12.2/hls/43-stream.m3u8						
+#EXTINF:-1, MANORANJAN GRAND
+http://192.168.12.2/hls/44-stream.m3u8						
+#EXTINF:-1, ISHWAR TV
+http://103.51.21.134/app/ts_live_601.m3u8
+#EXTINF:-1,Sadhana
+http://103.51.21.134/app/ts_live_593.m3u8						
+#EXTINF:-1, AASHTHA
+http://103.51.21.134/app/ts_live_175.m3u8	
+#EXTINF:-1 tvg-id="sanskartv.in" tvg-name="Sanskar TV" tvg-logo="https://watchindia.net/images/channels/hindi/Sanskar_TV.png" group-title="Hindi",Sanskar TV
+http://103.51.21.134/app/ts_live_288.m3u8
+#EXTINF:-1, PTC PUNJABI
+http://103.51.21.134/app/ts_live_1171.m3u8
+#EXTINF:-1, PTC Simran
+https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1, PTC MUSIC
+http://192.168.8.2/hls/2-stream.m3u8
+#EXTINF:-1, PTC NEWS
+http://192.168.8.2/hls/3-stream.m3u8
+#EXTINF:-1, PTC CHAKDE
+http://192.168.8.2/hls/4-stream.m3u8
+#EXTINF:-1, ZOOM
+http://192.168.8.2/hls/8-stream.m3u8
+#EXTINF:-1, ZEE KANNADA
+http://192.168.8.2/hls/12-stream.m3u8
+#EXTINF:-1, TURBO
+http://192.168.8.2/hls/13-stream.m3u8
+#EXTINF:-1, NATIONAL GEOGRAPHIC
+http://192.168.8.2/hls/16-stream.m3u8
+#EXTINF:-1, PTC PUNJAB GOLD
+http://103.51.21.134/app/ts_live_1190.m3u8
+#EXTINF:-1, NAT GEO WILD
+http://192.168.8.2/hls/23-stream.m3u8
+#EXTINF:-1, ZEE CINEMA
+http://192.168.8.2/hls/29-stream.m3u8
+#EXTINF:-1, ANIMAL PLANET
+http://192.168.8.2/hls/33-stream.m3u8
+#EXTINF:-1, DISCOVERY
+http://192.168.8.2/hls/34-stream.m3u8
+#EXTINF:-1, TLC
+http://172.172.171.2/hls/modn/list/8090/playlist.m3u8
+#EXTINF:-1, ASIANET
+http://192.168.8.2/hls/36-stream.m3u8
+#EXTINF:-1, STAR PRAVAH
+http://192.168.8.2/hls/37-stream.m3u8
+#EXTINF:-1, DISCOVERY SCIENCE
+http://192.168.8.2/hls/38-stream.m3u8
+#EXTINF:-1, DISCOVERY KIDS
+http://192.168.8.2/hls/39-stream.m3u8
+#EXTINF:-1, ZEE ANMOL CINEMA 2
+http://192.168.8.2/hls/42-stream.m3u8
+#EXTINF:-1, ZEE ACTION
+http://192.168.8.2/hls/28-stream.m3u8
+#EXTINF:-1, ASIANET PLUS
+http://192.168.8.2/hls/47-stream.m3u8
+#EXTINF:-1, 6 TV
+http://192.168.8.2/hls/50-stream.m3u8
+#EXTINF:-1, BHOJPURI CINEMA
+http://103.51.21.134/app/ts_live_486.m3u8
+#EXTINF:-1, SANGEET BHOJPURI
+http://103.51.21.134/app/ts_live_741.m3u8
+#EXTINF:-1, B4U BHOJPURI
+http://103.51.21.134/app/ts_live_1296.m3u8
+#EXTINF:-1, BHOJPURI Junction
+http://103.51.21.134/app/ts_live_2229.m3u8
+#EXTINF:-1,SAGA Music
+http://103.51.21.134/app/ts_live_2750.m3u8
+#EXTINF:-1,Saga Mucic Haryanvi
+http://103.51.21.134/app/ts_live_2751.m3u8
+#EXTINF:-1,Balle Balle TV
+http://103.51.21.134/app/ts_live_1453.m3u8
+#EXTINF:-1,Punjabi Hits
+http://103.51.21.134/app/ts_live_2934.m3u8
+#EXTINF:-1 tvg-id="republictv.in" tvg-name="Republic TV News" tvg-logo="https://watchindia.net/images/channels/hindi/Republic_TV_News.png" group-title="Hindi",Republic TV News
+http://103.51.21.134/app/ts_live_858.m3u8
+#EXTINF:-1 tvg-id="indiatoday.in" tvg-name="India Today" tvg-logo="https://watchindia.net/images/channels/hindi/India_Today_TV.png" group-title="Hindi",India Today
+http://103.51.21.134/app/ts_live_493.m3u8
+#EXTINF:-1,tvg-name="Disney" tvg-logo="" group-title="GRAND TV",Disney
+http://38.96.178.201/live/Disney/index.m3u8
+
